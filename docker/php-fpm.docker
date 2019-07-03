@@ -1,0 +1,71 @@
+FROM php:7.2-fpm
+
+ENV COMPOSER_ALLOW_SUPERUSER 1
+
+## Install staff
+RUN apt-get update && apt-get install -y \
+    libfreetype6-dev \
+    libjpeg62-turbo-dev \
+    libpng-dev \
+    ## Memcached lib
+    libmemcached-dev \
+    ## Zip lib
+    libzip-dev \
+    zip \
+    curl \
+    git \
+    vim \
+    supervisor
+
+## install for php
+RUN apt-get update && apt-get install -y \
+    && docker-php-ext-install pcntl \
+    && docker-php-ext-install pdo_mysql && docker-php-ext-enable pdo_mysql \
+    && docker-php-ext-install bcmath && docker-php-ext-enable bcmath \
+    && pecl install xdebug-2.6.0 && docker-php-ext-enable xdebug  \
+    && docker-php-ext-configure gd --with-freetype-dir=/usr/include/ --with-jpeg-dir=/usr/include/ \
+    && docker-php-ext-install gd \
+    ## Memcached install
+    && curl -L -o /tmp/memcached.tar.gz "https://github.com/php-memcached-dev/php-memcached/archive/php7.tar.gz" \
+    && mkdir -p /usr/src/php/ext/memcached \
+    && tar -C /usr/src/php/ext/memcached -zxvf /tmp/memcached.tar.gz --strip 1 \
+    && docker-php-ext-configure memcached \
+    && docker-php-ext-install memcached \
+    && rm /tmp/memcached.tar.gz \
+    ## Redis install
+    && mkdir -p /usr/src/php/ext/redis \
+    && curl -L https://github.com/phpredis/phpredis/archive/3.0.0.tar.gz | tar xvz -C /usr/src/php/ext/redis --strip 1 \
+    && echo 'redis' >> /usr/src/php-available-exts \
+    && docker-php-ext-install redis \
+    ## Zip install for Yii2
+    && docker-php-ext-configure zip --with-libzip \
+    && docker-php-ext-install zip
+
+## Add php ini
+ADD ./docker/php/php.ini /usr/local/etc/php/
+
+## Install composer
+RUN curl -sS https://getcomposer.org/installer | php
+RUN mv composer.phar /usr/local/bin/composer
+
+## Add composer bin to PATH
+ENV PATH "$PATH:$HOME/.composer/vendor/bin"
+
+## Add GITHUB AUTH TOKEN into Composer for Yii2
+RUN composer config -g github-oauth.github.com 4274e80e8b25e06b331b8c0bfa3868bddb4fddcf
+
+
+## Set User, This value should be equal local User $UID, its for permissions on create files
+RUN adduser -u 1000 vinter
+RUN adduser vinter root
+RUN su vinter
+
+## Supervisor
+RUN chown -R vinter /var/log
+COPY ./docker/supervisor/supervisord.conf /etc/supervisor
+COPY ./docker/supervisor/configs/* /etc/supervisor/conf.d
+CMD ["/usr/bin/supervisord", "-c", "/etc/supervisor/supervisord.conf"]
+
+WORKDIR /var/www/
+
+##USER 1000:1000

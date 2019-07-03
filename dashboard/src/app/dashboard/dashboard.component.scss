@@ -1,0 +1,36 @@
+.main-container {
+  width: 100%;
+  height: 100vh;
+}
+
+.main-sidenav-content {
+  display: flex;
+  height: 100%;
+  align-items: center;
+  justify-content: center;
+}
+
+.main-sidenav {
+  padding: 20px;
+  width: 300px;
+  background-color: #1e1c1c;
+}
+
+.b-menu-title{
+  text-align: center;
+}
+
+.b-menu-items  li{
+  text-decoration: none;
+  list-style: none;
+}
+
+.b-menu-items  li a{
+  color: white;
+}
+
+.b-main-content{
+  height: 100vh;
+}
+
+

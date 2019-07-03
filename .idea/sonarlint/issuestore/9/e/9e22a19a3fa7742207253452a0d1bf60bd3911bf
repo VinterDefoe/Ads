@@ -1,0 +1,1186 @@
+
+u	php:S1448÷e"_Class "URL" has 34 methods, which is greater than 20 authorized. Split it into smaller classes.(×¡’Ù
+Gphp:S836Î3"2Review the data-flow - use of uninitialized value.(ÄŸŸü
+Gphp:S836´<"2Review the data-flow - use of uninitialized value.(Çß½Û
+Gphp:S836Â"2Review the data-flow - use of uninitialized value.(ù°™«
+Lphp:S836ñ#"2Review the data-flow - use of uninitialized value.(÷±¦’ûÿÿÿÿ
+Lphp:S836®H"2Review the data-flow - use of uninitialized value.(’Š¨ğÿÿÿÿÿ
+Gphp:S836€"2Review the data-flow - use of uninitialized value.(ş„û¤
+Lphp:S836·="2Review the data-flow - use of uninitialized value.(¿¹ÉŠıÿÿÿÿ
+Lphp:S836Z"2Review the data-flow - use of uninitialized value.(¤ƒººúÿÿÿÿ
+Gphp:S836Ã="2Review the data-flow - use of uninitialized value.(²‰¿ê
+Gphp:S836õ`"2Review the data-flow - use of uninitialized value.(ò¤
+Lphp:S836	"2Review the data-flow - use of uninitialized value.(ßØÜÇùÿÿÿÿ
+Gphp:S836å"2Review the data-flow - use of uninitialized value.(ú‰âí
+Gphp:S836Æ'"2Review the data-flow - use of uninitialized value.(áµ¦·
+Gphp:S836—\"2Review the data-flow - use of uninitialized value.(ÄŸŸü
+Fphp:S836şr"2Review the data-flow - use of uninitialized value.(¸»œ8
+Gphp:S836ï"2Review the data-flow - use of uninitialized value.(§™‹±
+Gphp:S836z"2Review the data-flow - use of uninitialized value.(ì»ôÑ
+Gphp:S836¯W"2Review the data-flow - use of uninitialized value.(õõé—
+{	php:S1448ùq"eClass "Eloquent" has 184 methods, which is greater than 20 authorized. Split it into smaller classes.(“†Óğ
+Gphp:S836·:"2Review the data-flow - use of uninitialized value.(ê¤ù¶
+Lphp:S836Ñ@"2Review the data-flow - use of uninitialized value.(šíıÇşÿÿÿÿ
+Gphp:S836›a"2Review the data-flow - use of uninitialized value.(›ŠÓ¼
+Gphp:S836ŸY"2Review the data-flow - use of uninitialized value.(‹Èß
+Lphp:S836Æf"2Review the data-flow - use of uninitialized value.(ƒ«é®úÿÿÿÿ
+Lphp:S836øH"2Review the data-flow - use of uninitialized value.(§¸ûãùÿÿÿÿ
+Gphp:S836¥"2Review the data-flow - use of uninitialized value.(›¾‰É
+Gphp:S836¼K"2Review the data-flow - use of uninitialized value.(ßÇ»È
+Gphp:S836ñK"2Review the data-flow - use of uninitialized value.(«×€Ê
+Lphp:S836‚a"2Review the data-flow - use of uninitialized value.(êàû´şÿÿÿÿ
+Gphp:S836Â3"2Review the data-flow - use of uninitialized value.(’íğ˜
+Gphp:S836 "2Review the data-flow - use of uninitialized value.(­—È­
+Lphp:S836¾"2Review the data-flow - use of uninitialized value.(¥÷Ûïıÿÿÿÿ
+Hphp:S836ô„"2Review the data-flow - use of uninitialized value.(—Äœø
+Gphp:S836¬1"2Review the data-flow - use of uninitialized value.(‡ñ–ß
+Gphp:S836Ü"2Review the data-flow - use of uninitialized value.(Ñ‘õÏ
+Lphp:S836ô"2Review the data-flow - use of uninitialized value.(ÌƒÙ—ûÿÿÿÿ
+Lphp:S836ò~"2Review the data-flow - use of uninitialized value.(šŠ©¹ÿÿÿÿÿ
+Gphp:S836¯"2Review the data-flow - use of uninitialized value.(š¨Î²
+Gphp:S836ì<"2Review the data-flow - use of uninitialized value.(öÈÊ¾
+Gphp:S836g"2Review the data-flow - use of uninitialized value.(»÷åõ
+Fphp:S836Óf"2Review the data-flow - use of uninitialized value.(¨d
+Gphp:S836”"2Review the data-flow - use of uninitialized value.(ÌçÕ
+Lphp:S836É"2Review the data-flow - use of uninitialized value.(şÛ¬¸ıÿÿÿÿ
+Lphp:S836¼"2Review the data-flow - use of uninitialized value.(õ™åÅûÿÿÿÿ
+Lphp:S836£"2Review the data-flow - use of uninitialized value.(—Œ¬äÿÿÿÿÿ
+Gphp:S836Ù"2Review the data-flow - use of uninitialized value.(óÆÎı
+Gphp:S836”C"2Review the data-flow - use of uninitialized value.(ÏÄ”µ
+Gphp:S836±_"2Review the data-flow - use of uninitialized value.(ç‚™½
+Lphp:S836¡`"2Review the data-flow - use of uninitialized value.(Íæ”ıÿÿÿÿ
+Lphp:S836õd"2Review the data-flow - use of uninitialized value.(Ÿ‡‰Äÿÿÿÿÿ
+Gphp:S836§"2Review the data-flow - use of uninitialized value.(ÓŒ‰·
+Lphp:S836ö/"2Review the data-flow - use of uninitialized value.(ªô¸òúÿÿÿÿ
+Lphp:S836…8"2Review the data-flow - use of uninitialized value.(‰¬‹èıÿÿÿÿ
+Lphp:S836­X"2Review the data-flow - use of uninitialized value.(ÇöŞÿÿÿÿÿ
+Gphp:S836ük"2Review the data-flow - use of uninitialized value.(¢¼–
+Gphp:S836õt"2Review the data-flow - use of uninitialized value.(â£‹…
+Lphp:S836¯"2Review the data-flow - use of uninitialized value.(®ú—ıÿÿÿÿ
+Gphp:S836Ô)"2Review the data-flow - use of uninitialized value.(øœ’™
+Gphp:S836Ï\"2Review the data-flow - use of uninitialized value.(“•·û
+Gphp:S836à "2Review the data-flow - use of uninitialized value.(óéöÊ
+Lphp:S836¥l"2Review the data-flow - use of uninitialized value.(ĞïÕ×ùÿÿÿÿ
+Lphp:S836Ùn"2Review the data-flow - use of uninitialized value.(Æ©èáüÿÿÿÿ
+Hphp:S836ı€"2Review the data-flow - use of uninitialized value.(¨±­Š
+Lphp:S836Î<"2Review the data-flow - use of uninitialized value.(—Æáİúÿÿÿÿ
+Lphp:S836ö"2Review the data-flow - use of uninitialized value.(Ó‘­ıÿÿÿÿÿ
+Lphp:S836¡("2Review the data-flow - use of uninitialized value.(Â‡Íßúÿÿÿÿ
+Lphp:S836Ê-"2Review the data-flow - use of uninitialized value.(‘¨” üÿÿÿÿ
+Lphp:S836Ô;"2Review the data-flow - use of uninitialized value.(‹¦°œûÿÿÿÿ
+Gphp:S836ß"2Review the data-flow - use of uninitialized value.(õµ¬à
+Lphp:S836­#"2Review the data-flow - use of uninitialized value.(Úú÷ùÿÿÿÿ
+Lphp:S836ÃB"2Review the data-flow - use of uninitialized value.(ÖÉë´üÿÿÿÿ
+Gphp:S836ÕW"2Review the data-flow - use of uninitialized value.(ØÏ¬ 
+Lphp:S836ÿ^"2Review the data-flow - use of uninitialized value.(¹ËÓ€øÿÿÿÿ
+Gphp:S836»#"2Review the data-flow - use of uninitialized value.(£²Ş
+Lphp:S836İa"2Review the data-flow - use of uninitialized value.(»Äîùÿÿÿÿ
+Gphp:S836Ó4"2Review the data-flow - use of uninitialized value.(Òíüö
+Lphp:S836ÈO"2Review the data-flow - use of uninitialized value.(ñ‹Ü‘øÿÿÿÿ
+Lphp:S836Äo"2Review the data-flow - use of uninitialized value.(ÆÏ„ûÿÿÿÿ
+Gphp:S836¥B"2Review the data-flow - use of uninitialized value.(ı©í»
+Gphp:S836Ã"2Review the data-flow - use of uninitialized value.(“±âŒ
+Lphp:S836ˆG"2Review the data-flow - use of uninitialized value.(†—í—øÿÿÿÿ
+Gphp:S836·"2Review the data-flow - use of uninitialized value.(òöÍŠ
+Gphp:S836šw"2Review the data-flow - use of uninitialized value.(ø®•Â
+Lphp:S836›!"2Review the data-flow - use of uninitialized value.(ÜÔ’¨ùÿÿÿÿ
+Lphp:S836ŞP"2Review the data-flow - use of uninitialized value.(äÅ²ÿÿÿÿÿ
+Gphp:S836‰t"2Review the data-flow - use of uninitialized value.(åÏı
+Hphp:S836•€"2Review the data-flow - use of uninitialized value.(½Íó•
+Lphp:S836ép"2Review the data-flow - use of uninitialized value.(üüê£ıÿÿÿÿ
+Lphp:S836ó\"2Review the data-flow - use of uninitialized value.(‰¹‡¸ıÿÿÿÿ
+Lphp:S836×m"2Review the data-flow - use of uninitialized value.(ïğÁßÿÿÿÿÿ
+Lphp:S836œy"2Review the data-flow - use of uninitialized value.(Ÿ‹Æ÷üÿÿÿÿ
+Lphp:S836œ"2Review the data-flow - use of uninitialized value.(£³è†øÿÿÿÿ
+Gphp:S836Û&"2Review the data-flow - use of uninitialized value.(•¼â”
+Lphp:S836ÿJ"2Review the data-flow - use of uninitialized value.(µÈ·æıÿÿÿÿ
+Gphp:S836ÿf"2Review the data-flow - use of uninitialized value.(™ÀÄ
+Gphp:S836Òo"2Review the data-flow - use of uninitialized value.(¼Òñ
+Lphp:S836¡@"2Review the data-flow - use of uninitialized value.(ç™Õ±üÿÿÿÿ
+Gphp:S836äk"2Review the data-flow - use of uninitialized value.(ŒÎé¡
+Lphp:S836Ì&"2Review the data-flow - use of uninitialized value.(ºÉÉÂúÿÿÿÿ
+Gphp:S836¼"2Review the data-flow - use of uninitialized value.(šãùâ
+Lphp:S836³j"2Review the data-flow - use of uninitialized value.(¦Œó½øÿÿÿÿ
+Lphp:S836ØU"2Review the data-flow - use of uninitialized value.(Ø£õøÿÿÿÿ
+Gphp:S836¼m"2Review the data-flow - use of uninitialized value.(í²èª
+Lphp:S836âv"2Review the data-flow - use of uninitialized value.(¼ğ¦Åÿÿÿÿÿ
+Lphp:S836Îp"2Review the data-flow - use of uninitialized value.(§ˆ”ûÿÿÿÿ
+Lphp:S836Îz"2Review the data-flow - use of uninitialized value.(ïÂûƒşÿÿÿÿ
+Lphp:S836ŞN"2Review the data-flow - use of uninitialized value.(Ë¸Áùÿÿÿÿ
+Lphp:S836â"2Review the data-flow - use of uninitialized value.(÷ëª¯şÿÿÿÿ
+Mphp:S836¥"2Review the data-flow - use of uninitialized value.(ƒıÍ¼úÿÿÿÿ
+Lphp:S836åw"2Review the data-flow - use of uninitialized value.(âïûÏúÿÿÿÿ
+Lphp:S836¯k"2Review the data-flow - use of uninitialized value.(ŸËĞùÿÿÿÿ
+Lphp:S836p"2Review the data-flow - use of uninitialized value.(•æèışÿÿÿÿ
+Lphp:S836 x"2Review the data-flow - use of uninitialized value.(Î¸Âıÿÿÿÿ
+Lphp:S836Ú"2Review the data-flow - use of uninitialized value.(¡¶Ñ˜ùÿÿÿÿ
+Lphp:S836K"2Review the data-flow - use of uninitialized value.(õÌœìúÿÿÿÿ
+Lphp:S836Á<"2Review the data-flow - use of uninitialized value.(ßä´íüÿÿÿÿ
+Lphp:S836"2Review the data-flow - use of uninitialized value.(Û¥Ùõûÿÿÿÿ
+Lphp:S836é7"2Review the data-flow - use of uninitialized value.(º–¯ÿÿÿÿÿ
+Gphp:S836ì"2Review the data-flow - use of uninitialized value.(ŸÓí°
+Gphp:S836Ì"2Review the data-flow - use of uninitialized value.(¶É¹è
+Lphp:S836ªb"2Review the data-flow - use of uninitialized value.(û°“ÿıÿÿÿÿ
+Gphp:S836ç["2Review the data-flow - use of uninitialized value.(»ŒıÎ
+Lphp:S836À"2Review the data-flow - use of uninitialized value.(Ì–«Ëüÿÿÿÿ
+Gphp:S836èZ"2Review the data-flow - use of uninitialized value.(ìÿíø
+Gphp:S836ã!"2Review the data-flow - use of uninitialized value.(®‡íÔ
+Lphp:S836ò%"2Review the data-flow - use of uninitialized value.(—êÔıÿÿÿÿ
+Lphp:S836„'"2Review the data-flow - use of uninitialized value.(Õï…çøÿÿÿÿ
+Lphp:S836şu"2Review the data-flow - use of uninitialized value.(³ÖŠøÿÿÿÿ
+Mphp:S836†"2Review the data-flow - use of uninitialized value.(¦ç«üÿÿÿÿ
+Gphp:S836ö"2Review the data-flow - use of uninitialized value.(œÂœß
+Gphp:S836§""2Review the data-flow - use of uninitialized value.(Š‘ûö
+Lphp:S836)"2Review the data-flow - use of uninitialized value.(ÒìĞÃÿÿÿÿÿ
+\php:S107‹"GThis function has 9 parameters, which is greater than the 7 authorized.(—Áœ
+Lphp:S836®"2Review the data-flow - use of uninitialized value.(—Äóñıÿÿÿÿ
+Lphp:S836›"2Review the data-flow - use of uninitialized value.(Çî‘ÿÿÿÿÿ
+Gphp:S836»"2Review the data-flow - use of uninitialized value.(Ùä¹™
+Gphp:S836Ö%"2Review the data-flow - use of uninitialized value.(óãÕÎ
+Lphp:S836‹\"2Review the data-flow - use of uninitialized value.(‚üô‚ûÿÿÿÿ
+Gphp:S836¶"2Review the data-flow - use of uninitialized value.(ÂúÉ
+Lphp:S836)"2Review the data-flow - use of uninitialized value.(ÔÚÍşÿÿÿÿ
+Lphp:S836Äd"2Review the data-flow - use of uninitialized value.(£ÔŸÅûÿÿÿÿ
+Gphp:S836Êg"2Review the data-flow - use of uninitialized value.( —†À
+Fphp:S836æ"2Review the data-flow - use of uninitialized value.(Ä›­B
+Lphp:S836¬c"2Review the data-flow - use of uninitialized value.(§ Àıÿÿÿÿ
+Fphp:S836-"2Review the data-flow - use of uninitialized value.(áÃº¾
+Lphp:S836åc"2Review the data-flow - use of uninitialized value.(ÒìĞÃÿÿÿÿÿ
+Gphp:S836 H"2Review the data-flow - use of uninitialized value.(´“–è
+Mphp:S836™…"2Review the data-flow - use of uninitialized value.(ıŒÂ«ûÿÿÿÿ
+Gphp:S836ãV"2Review the data-flow - use of uninitialized value.(²êÌ
+Lphp:S836Œz"2Review the data-flow - use of uninitialized value.(çÿû”øÿÿÿÿ
+Kphp:S836 "2Review the data-flow - use of uninitialized value.(ÙÛ°úÿÿÿÿÿ
+Lphp:S836ñb"2Review the data-flow - use of uninitialized value.(ï¥½äûÿÿÿÿ
+Gphp:S836Ç!"2Review the data-flow - use of uninitialized value.(ÔÁÜá
+Lphp:S836Ô'"2Review the data-flow - use of uninitialized value.(Âëùÿÿÿÿ
+Gphp:S836Òr"2Review the data-flow - use of uninitialized value.(Şµ…‹
+Gphp:S8369"2Review the data-flow - use of uninitialized value.(´äè¬
+Gphp:S836ªf"2Review the data-flow - use of uninitialized value.(ÄØ¥œ
+Gphp:S836›9"2Review the data-flow - use of uninitialized value.(Æ¥î
+Gphp:S836y"2Review the data-flow - use of uninitialized value.(Ùâ¦ï
+Lphp:S836Â"2Review the data-flow - use of uninitialized value.(ù€åÿÿÿÿÿ
+Gphp:S836ÿU"2Review the data-flow - use of uninitialized value.(ìÔ‘·
+Gphp:S836¸f"2Review the data-flow - use of uninitialized value.(ù‰¬ˆ
+Gphp:S836µB"2Review the data-flow - use of uninitialized value.(ıÊ
+Gphp:S836ˆ*"2Review the data-flow - use of uninitialized value.(»™“Ğ
+Gphp:S836ªA"2Review the data-flow - use of uninitialized value.(ªğ„‘
+Lphp:S836Æ"2Review the data-flow - use of uninitialized value.(Ò¤§ÿÿÿÿÿ
+Gphp:S836şv"2Review the data-flow - use of uninitialized value.(ìİú™
+Lphp:S836ª'"2Review the data-flow - use of uninitialized value.(¶ÌØàøÿÿÿÿ
+Lphp:S836š"2Review the data-flow - use of uninitialized value.(å«ö¶úÿÿÿÿ
+Lphp:S836ºX"2Review the data-flow - use of uninitialized value.(»“¡±ıÿÿÿÿ
+Gphp:S836õ"2Review the data-flow - use of uninitialized value.(™‰Ô§
+Lphp:S836Û3"2Review the data-flow - use of uninitialized value.(ª“ùíøÿÿÿÿ
+Gphp:S836ª5"2Review the data-flow - use of uninitialized value.(¦öƒş
+Lphp:S836ë"2Review the data-flow - use of uninitialized value.(óôûÿÿÿÿ
+Lphp:S836Éc"2Review the data-flow - use of uninitialized value.(ÁÚŞüÿÿÿÿ
+Gphp:S836´"2Review the data-flow - use of uninitialized value.(Ú™½
+Gphp:S836Á"2Review the data-flow - use of uninitialized value.(© øÍ
+Gphp:S836î;"2Review the data-flow - use of uninitialized value.(ı—•³
+Lphp:S836£^"2Review the data-flow - use of uninitialized value.(¦øùÉúÿÿÿÿ
+w	php:S1448ÔR"aClass "Route" has 67 methods, which is greater than 20 authorized. Split it into smaller classes.(‹­ÚÃ
+Gphp:S8364"2Review the data-flow - use of uninitialized value.(±€Æœ
+Gphp:S836ƒ-"2Review the data-flow - use of uninitialized value.(ŸéÇÃ
+Gphp:S836Ùt"2Review the data-flow - use of uninitialized value.(¿Ãìù
+Lphp:S836û)"2Review the data-flow - use of uninitialized value.(ˆ‚Î øÿÿÿÿ
+Gphp:S836"2Review the data-flow - use of uninitialized value.(éĞïÉ
+Gphp:S836Û\"2Review the data-flow - use of uninitialized value.(—Ÿöƒ
+Lphp:S836€9"2Review the data-flow - use of uninitialized value.(¿–ËÅûÿÿÿÿ
+Lphp:S836÷N"2Review the data-flow - use of uninitialized value.(Ş™ãÕùÿÿÿÿ
+Lphp:S836Ì|"2Review the data-flow - use of uninitialized value.(½õûöúÿÿÿÿ
+Gphp:S836ãm"2Review the data-flow - use of uninitialized value.(í€è½
+Lphp:S836£m"2Review the data-flow - use of uninitialized value.(ÉùËàüÿÿÿÿ
+Lphp:S836²n"2Review the data-flow - use of uninitialized value.(°øŸøÿÿÿÿ
+Gphp:S836®x"2Review the data-flow - use of uninitialized value.(çÚıÊ
+Gphp:S836‘-"2Review the data-flow - use of uninitialized value.(³åÌÒ
+Gphp:S836İ<"2Review the data-flow - use of uninitialized value.(ÄÃ¹õ
+Lphp:S8364"2Review the data-flow - use of uninitialized value.(ù÷Íüÿÿÿÿ
+Lphp:S836Ù$"2Review the data-flow - use of uninitialized value.(çüşÒøÿÿÿÿ
+Lphp:S836ìz"2Review the data-flow - use of uninitialized value.(Ìğßúÿÿÿÿ
+Lphp:S836N"2Review the data-flow - use of uninitialized value.(¥ÀöÜûÿÿÿÿ
+Gphp:S836ƒ?"2Review the data-flow - use of uninitialized value.(ş­Ù¦
+Gphp:S836¥/"2Review the data-flow - use of uninitialized value.(’íğ˜
+Lphp:S836î"2Review the data-flow - use of uninitialized value.(ß‘¬Íÿÿÿÿÿ
+Lphp:S836„A"2Review the data-flow - use of uninitialized value.(³·µ²ıÿÿÿÿ
+Fphp:S836¹+"2Review the data-flow - use of uninitialized value.(éš¾P
+Lphp:S836“"2Review the data-flow - use of uninitialized value.(õ•ûËşÿÿÿÿ
+Gphp:S836Ê"2Review the data-flow - use of uninitialized value.(”ñâö
+Gphp:S836·!"2Review the data-flow - use of uninitialized value.(ÓµŞ¢
+Gphp:S836È{"2Review the data-flow - use of uninitialized value.(Îí­Ä
+Lphp:S836áW"2Review the data-flow - use of uninitialized value.(–ğ³€ÿÿÿÿÿ
+Lphp:S836‰&"2Review the data-flow - use of uninitialized value.(×ïÔßúÿÿÿÿ
+Lphp:S836Æ`"2Review the data-flow - use of uninitialized value.(ôùÁÍüÿÿÿÿ
+Lphp:S836§S"2Review the data-flow - use of uninitialized value.(Àê¯ùÿÿÿÿ
+Gphp:S836‡D"2Review the data-flow - use of uninitialized value.(øĞûˆ
+Lphp:S836öM"2Review the data-flow - use of uninitialized value.(ôÈ‹¦øÿÿÿÿ
+Lphp:S836H"2Review the data-flow - use of uninitialized value.(ª¼Ş»şÿÿÿÿ
+Fphp:S836”1"2Review the data-flow - use of uninitialized value.(«Â6
+Gphp:S836ğv"2Review the data-flow - use of uninitialized value.( €èÚ
+Lphp:S836ß"2Review the data-flow - use of uninitialized value.(Å»ÔÈşÿÿÿÿ
+Lphp:S836Ú	"2Review the data-flow - use of uninitialized value.(È››ôÿÿÿÿÿ
+Gphp:S836«ƒ"2Review the data-flow - use of uninitialized value.(Ó¬ÈN
+Gphp:S836Ä"2Review the data-flow - use of uninitialized value.(ú‰âí
+Gphp:S836æ>"2Review the data-flow - use of uninitialized value.(™±îŞ
+Mphp:S836­‚"2Review the data-flow - use of uninitialized value.(“Õçşøÿÿÿÿ
+Gphp:S836±u"2Review the data-flow - use of uninitialized value.(²Ù›‡
+Gphp:S836Ø("2Review the data-flow - use of uninitialized value.(®ÙŒ‹
+Fphp:S836¥$"2Review the data-flow - use of uninitialized value.(…Ÿú
+Gphp:S836è"2Review the data-flow - use of uninitialized value.(Çä”É
+Fphp:S836µS"2Review the data-flow - use of uninitialized value.(£×Ök
+Lphp:S836ï "2Review the data-flow - use of uninitialized value.(é†ÜÉùÿÿÿÿ
+Lphp:S836®Q"2Review the data-flow - use of uninitialized value.(û®”üÿÿÿÿ
+Gphp:S836„"2Review the data-flow - use of uninitialized value.(ü¼×¹
+Gphp:S836§]"2Review the data-flow - use of uninitialized value.(ıÊ
+Lphp:S836ïO"2Review the data-flow - use of uninitialized value.(·Œıòøÿÿÿÿ
+Lphp:S836áe"2Review the data-flow - use of uninitialized value.(˜¤“²üÿÿÿÿ
+Fphp:S836¼C"2Review the data-flow - use of uninitialized value.(¹¬ï
+Gphp:S836¹‚"2Review the data-flow - use of uninitialized value.(¾óÛK
+Lphp:S836Ö{"2Review the data-flow - use of uninitialized value.(Ú«´Ñùÿÿÿÿ
+Mphp:S836Š"2Review the data-flow - use of uninitialized value.(Âüãışÿÿÿÿ
+Gphp:S836²"2Review the data-flow - use of uninitialized value.(æ‡/
+Lphp:S836ÍG"2Review the data-flow - use of uninitialized value.(Æ±Ô×şÿÿÿÿ
+Gphp:S836Ş:"2Review the data-flow - use of uninitialized value.(²Îºò
+Gphp:S836…O"2Review the data-flow - use of uninitialized value.(ßÚ¦ô
+Lphp:S836ê"2Review the data-flow - use of uninitialized value.(÷®Áüÿÿÿÿ
+Gphp:S836k"2Review the data-flow - use of uninitialized value.(¸Ú–Ï
+Kphp:S836H"2Review the data-flow - use of uninitialized value.(ŸøŒøÿÿÿÿ
+Lphp:S836‚%"2Review the data-flow - use of uninitialized value.(¼Æ§Çûÿÿÿÿ
+Lphp:S836Æ."2Review the data-flow - use of uninitialized value.(Ãƒ½úÿÿÿÿ
+Gphp:S836ô6"2Review the data-flow - use of uninitialized value.(Æ¥î
+Lphp:S836³
+"2Review the data-flow - use of uninitialized value.(’Ú¸ÿÿÿÿÿ
+Gphp:S836åI"2Review the data-flow - use of uninitialized value.(ä–×¬
+Gphp:S836„"2Review the data-flow - use of uninitialized value.(Î¤Éø
+Gphp:S836“:"2Review the data-flow - use of uninitialized value.(ÄŸŸü
+Lphp:S836¤u"2Review the data-flow - use of uninitialized value.(•üñ”úÿÿÿÿ
+Lphp:S836ÿA"2Review the data-flow - use of uninitialized value.(ëæğ¢úÿÿÿÿ
+Hphp:S836²€"2Review the data-flow - use of uninitialized value.(Ü®Ö›
+Lphp:S836ÄN"2Review the data-flow - use of uninitialized value.(û“Øëøÿÿÿÿ
+Gphp:S836…"2Review the data-flow - use of uninitialized value.(Ò¢º
+Lphp:S836¾u"2Review the data-flow - use of uninitialized value.(ÕóÒ²ûÿÿÿÿ
+Lphp:S836·b"2Review the data-flow - use of uninitialized value.(œ‘×Øÿÿÿÿÿ
+Gphp:S836ŠW"2Review the data-flow - use of uninitialized value.(õ¹¸Ô
+Lphp:S836Öw"2Review the data-flow - use of uninitialized value.(„Â¾®ûÿÿÿÿ
+Hphp:S836¸ƒ"2Review the data-flow - use of uninitialized value.(í¤ÈŞ
+Gphp:S836ø3"2Review the data-flow - use of uninitialized value.(£ÃÁ
+Lphp:S836¨"2Review the data-flow - use of uninitialized value.(ô»­€øÿÿÿÿ
+Lphp:S836±^"2Review the data-flow - use of uninitialized value.(à½±úÿÿÿÿ
+Lphp:S836òx"2Review the data-flow - use of uninitialized value.(ÿİƒ•üÿÿÿÿ
+Lphp:S836¦"2Review the data-flow - use of uninitialized value.(â ™øÿÿÿÿ
+Gphp:S836çg"2Review the data-flow - use of uninitialized value.(åÌì²
+Lphp:S836÷|"2Review the data-flow - use of uninitialized value.(îÂòìüÿÿÿÿ
+Lphp:S836ÖO"2Review the data-flow - use of uninitialized value.(ÙÿŸ˜ùÿÿÿÿ
+Lphp:S836œR"2Review the data-flow - use of uninitialized value.(’ë·»ùÿÿÿÿ
+Gphp:S836¶V"2Review the data-flow - use of uninitialized value.(ó¿Õ 
+Gphp:S836³\"2Review the data-flow - use of uninitialized value.(’íğ˜
+Lphp:S836™S"2Review the data-flow - use of uninitialized value.(É”Üûÿÿÿÿ
+Lphp:S836ö"2Review the data-flow - use of uninitialized value.(µ·ÖÃıÿÿÿÿ
+Gphp:S836Ï""2Review the data-flow - use of uninitialized value.(ÓŞ¬¬
+Lphp:S836™"2Review the data-flow - use of uninitialized value.(Ú™ö£øÿÿÿÿ
+Gphp:S836öZ"2Review the data-flow - use of uninitialized value.(…åìŒ
+Lphp:S836‘"2Review the data-flow - use of uninitialized value.(ÉùËàüÿÿÿÿ
+Lphp:S836ª7"2Review the data-flow - use of uninitialized value.(ÑÀªİûÿÿÿÿ
+Lphp:S836æl"2Review the data-flow - use of uninitialized value.(®ú—ıÿÿÿÿ
+Lphp:S836İ]"2Review the data-flow - use of uninitialized value.(Ëñ®Õüÿÿÿÿ
+Fphp:S836»G"2Review the data-flow - use of uninitialized value.(·”ş"
+Fphp:S836Ì"2Review the data-flow - use of uninitialized value.(ƒˆÒ
+Lphp:S836İ"2Review the data-flow - use of uninitialized value.(ªª¤…ûÿÿÿÿ
+Lphp:S836¤"2Review the data-flow - use of uninitialized value.(¦ç«üÿÿÿÿ
+Gphp:S836c"2Review the data-flow - use of uninitialized value.(Ç¬Õ¬
+Gphp:S836Í,"2Review the data-flow - use of uninitialized value.(Ø³µ÷
+Gphp:S836Íh"2Review the data-flow - use of uninitialized value.(†°§Ç
+Mphp:S836¥„"2Review the data-flow - use of uninitialized value.(à¤®øÿÿÿÿ
+Lphp:S836˜V"2Review the data-flow - use of uninitialized value.(¸•™Øıÿÿÿÿ
+Lphp:S836‚f"2Review the data-flow - use of uninitialized value.(¦·Øäÿÿÿÿÿ
+Gphp:S836o"2Review the data-flow - use of uninitialized value.(Ç³Àû
+Lphp:S836€"2Review the data-flow - use of uninitialized value.(æü…üÿÿÿÿ
+Lphp:S836‹="2Review the data-flow - use of uninitialized value.(¹âÆ„ûÿÿÿÿ
+Gphp:S836Çy"2Review the data-flow - use of uninitialized value.(æÑ“
+Lphp:S836È"2Review the data-flow - use of uninitialized value.(Ò¤§ÿÿÿÿÿ
+Gphp:S836­"2Review the data-flow - use of uninitialized value.(À†Ã‘
+Lphp:S836Ò."2Review the data-flow - use of uninitialized value.(‰Ãğ€ùÿÿÿÿ
+Gphp:S836õa"2Review the data-flow - use of uninitialized value.(ÚšÖú
+Lphp:S836Ë^"2Review the data-flow - use of uninitialized value.(Ô¤·şÿÿÿÿ
+Gphp:S836ÏA"2Review the data-flow - use of uninitialized value.(Â²–—
+Gphp:S836ƒu"2Review the data-flow - use of uninitialized value.(òÔÚ®
+Gphp:S836îW"2Review the data-flow - use of uninitialized value.(Äşšõ
+Lphp:S836Ù["2Review the data-flow - use of uninitialized value.(øï”êùÿÿÿÿ
+Gphp:S836‰`"2Review the data-flow - use of uninitialized value.(Õà¯˜
+Gphp:S836ÿj"2Review the data-flow - use of uninitialized value.(Çú¡¥
+Lphp:S836¢F"2Review the data-flow - use of uninitialized value.(ğ“İŞÿÿÿÿÿ
+Gphp:S836§w"2Review the data-flow - use of uninitialized value.(È÷ËĞ
+Gphp:S836É_"2Review the data-flow - use of uninitialized value.(“¯¿ú
+Gphp:S836û"2Review the data-flow - use of uninitialized value.(°¥Óš
+Gphp:S836ë1"2Review the data-flow - use of uninitialized value.(î‹¬™
+Lphp:S836š<"2Review the data-flow - use of uninitialized value.(İ•’€ûÿÿÿÿ
+Lphp:S836ù]"2Review the data-flow - use of uninitialized value.(»İÜóşÿÿÿÿ
+Lphp:S836³l"2Review the data-flow - use of uninitialized value.(é«›ÿÿÿÿÿ
+Gphp:S836Ém"2Review the data-flow - use of uninitialized value.(¦­‚
+Lphp:S836‚b"2Review the data-flow - use of uninitialized value.(äò•»şÿÿÿÿ
+Gphp:S836Ò}"2Review the data-flow - use of uninitialized value.(±âß®
+Lphp:S836¡J"2Review the data-flow - use of uninitialized value.(îÃÕÛÿÿÿÿÿ
+Lphp:S836ò^"2Review the data-flow - use of uninitialized value.(†êĞıÿÿÿÿ
+Gphp:S836¹)"2Review the data-flow - use of uninitialized value.(èÜĞ°
+Gphp:S836ÑN"2Review the data-flow - use of uninitialized value.(œß®
+Gphp:S836¤_"2Review the data-flow - use of uninitialized value.(ğ’›¶
+Lphp:S836ùX"2Review the data-flow - use of uninitialized value.(öä˜Ìûÿÿÿÿ
+Lphp:S836¶"2Review the data-flow - use of uninitialized value.(Òì“©üÿÿÿÿ
+Gphp:S836¥t"2Review the data-flow - use of uninitialized value.(º‘¡Õ
+Gphp:S836·7"2Review the data-flow - use of uninitialized value.(ŞıßÕ
+Fphp:S836Øk"2Review the data-flow - use of uninitialized value.(Á®£/
+Lphp:S836Âp"2Review the data-flow - use of uninitialized value.(ÊˆÄÇúÿÿÿÿ
+Gphp:S836‘p"2Review the data-flow - use of uninitialized value.(üëÙÉ
+Gphp:S836üz"2Review the data-flow - use of uninitialized value.(çà—É
+Lphp:S836É"2Review the data-flow - use of uninitialized value.(ìŞõÍüÿÿÿÿ
+Gphp:S836İL"2Review the data-flow - use of uninitialized value.(³­Ã’
+Lphp:S836İ""2Review the data-flow - use of uninitialized value.(ô¿®ûÿÿÿÿ
+Gphp:S836’#"2Review the data-flow - use of uninitialized value.(‹ÕÕ×
+Lphp:S836ß"2Review the data-flow - use of uninitialized value.(·°ÄÔÿÿÿÿÿ
+Gphp:S836îB"2Review the data-flow - use of uninitialized value.(Îå³î
+Lphp:S836â2"2Review the data-flow - use of uninitialized value.(ãÍ™ñşÿÿÿÿ
+Gphp:S836ƒH"2Review the data-flow - use of uninitialized value.(‘şÜÉ
+Gphp:S836¸'"2Review the data-flow - use of uninitialized value.(ñªà™
+Lphp:S836î"2Review the data-flow - use of uninitialized value.(õ™åÅûÿÿÿÿ
+Lphp:S836¼"2Review the data-flow - use of uninitialized value.(½À®Üøÿÿÿÿ
+Lphp:S836ò-"2Review the data-flow - use of uninitialized value.(¡¿‘Ÿûÿÿÿÿ
+Lphp:S836è6"2Review the data-flow - use of uninitialized value.(å–Éìüÿÿÿÿ
+Gphp:S836š"2Review the data-flow - use of uninitialized value.(ñÈ¶Æ
+Gphp:S836˜B"2Review the data-flow - use of uninitialized value.(ŠÓ£
+Lphp:S836µ"2Review the data-flow - use of uninitialized value.(à²“Ñøÿÿÿÿ
+Gphp:S836Øu"2Review the data-flow - use of uninitialized value.(ŠâÕñ
+Gphp:S836"2Review the data-flow - use of uninitialized value.(µ“Ÿ©
+Mphp:S836Å‚"2Review the data-flow - use of uninitialized value.(°´‚Öûÿÿÿÿ
+Lphp:S836Ç"2Review the data-flow - use of uninitialized value.(Íş±öùÿÿÿÿ
+Lphp:S836ÿ"2Review the data-flow - use of uninitialized value.(ûìÙ’ùÿÿÿÿ
+Gphp:S836–"2Review the data-flow - use of uninitialized value.(×€ŒŸ
+Lphp:S836"2Review the data-flow - use of uninitialized value.(å™òåüÿÿÿÿ
+Lphp:S836ê="2Review the data-flow - use of uninitialized value.(ÉöêÜúÿÿÿÿ
+Lphp:S836›M"2Review the data-flow - use of uninitialized value.(–¹ØÄıÿÿÿÿ
+Fphp:S836Û"2Review the data-flow - use of uninitialized value.(Ş‰›&
+v	php:S1448ù'"`Class "File" has 40 methods, which is greater than 20 authorized. Split it into smaller classes.(·§ØÅ
+Gphp:S836ÑD"2Review the data-flow - use of uninitialized value.(Ùùòš
+Lphp:S836ò"2Review the data-flow - use of uninitialized value.(ˆ³Ïêÿÿÿÿÿ
+Lphp:S836‹I"2Review the data-flow - use of uninitialized value.(ÉŠìşÿÿÿÿ
+Lphp:S836h"2Review the data-flow - use of uninitialized value.(ùçºØûÿÿÿÿ
+Lphp:S836ã"2Review the data-flow - use of uninitialized value.(Ô¤¤•úÿÿÿÿ
+Lphp:S836¯C"2Review the data-flow - use of uninitialized value.(ÇÌ‘¥ÿÿÿÿÿ
+Lphp:S836Ñ "2Review the data-flow - use of uninitialized value.(ù½âÂÿÿÿÿÿ
+Lphp:S836."2Review the data-flow - use of uninitialized value.(Ã®ª£ıÿÿÿÿ
+Gphp:S836Øj"2Review the data-flow - use of uninitialized value.(İÖ˜–
+Mphp:S836Ù"2Review the data-flow - use of uninitialized value.(éåõ´ùÿÿÿÿ
+Lphp:S836£"2Review the data-flow - use of uninitialized value.(í¢¾ôıÿÿÿÿ
+Fphp:S836…"2Review the data-flow - use of uninitialized value.(ê¿¢J
+Lphp:S836ô("2Review the data-flow - use of uninitialized value.(Á‡ûÿÿÿÿ
+Gphp:S836æ"2Review the data-flow - use of uninitialized value.(•ã†¥
+Gphp:S836ÊI"2Review the data-flow - use of uninitialized value.(ß¥‘Ï
+Gphp:S836Æ4"2Review the data-flow - use of uninitialized value.(— €¶
+Lphp:S836î)"2Review the data-flow - use of uninitialized value.(ƒŒ‡µùÿÿÿÿ
+Gphp:S836Ö*"2Review the data-flow - use of uninitialized value.(âñæ
+Gphp:S836ìQ"2Review the data-flow - use of uninitialized value.(ÑğûÁ
+Gphp:S836…e"2Review the data-flow - use of uninitialized value.(Œ©Ãö
+Lphp:S836Ëu"2Review the data-flow - use of uninitialized value.(‰‰‚ıÿÿÿÿ
+Fphp:S836|"2Review the data-flow - use of uninitialized value.(øÖ‹İ
+Gphp:S836å%"2Review the data-flow - use of uninitialized value.(Üô«˜
+Gphp:S836˜s"2Review the data-flow - use of uninitialized value.(•§¤å
+Lphp:S836Ì$"2Review the data-flow - use of uninitialized value.(à‘ŒÖùÿÿÿÿ
+Lphp:S836‹6"2Review the data-flow - use of uninitialized value.(”«¯Ïüÿÿÿÿ
+Gphp:S836¸2"2Review the data-flow - use of uninitialized value.(¡«Ó
+Gphp:S836ÿ~"2Review the data-flow - use of uninitialized value.(±ÎÎ£
+Lphp:S836ÊU"2Review the data-flow - use of uninitialized value.(ªÂ“æùÿÿÿÿ
+Fphp:S836Ü="2Review the data-flow - use of uninitialized value.(öâ»m
+Gphp:S836ç$"2Review the data-flow - use of uninitialized value.(ëÖœı
+Gphp:S836„Z"2Review the data-flow - use of uninitialized value.(æŸÒñ
+Lphp:S836·q"2Review the data-flow - use of uninitialized value.(ç€†Ôùÿÿÿÿ
+Lphp:S836¡"2Review the data-flow - use of uninitialized value.(ÜñÌåùÿÿÿÿ
+Gphp:S836„q"2Review the data-flow - use of uninitialized value.(”“ô™
+Lphp:S836q"2Review the data-flow - use of uninitialized value.(¡˜å–şÿÿÿÿ
+Lphp:S836è"2Review the data-flow - use of uninitialized value.(ØÌ¯Âùÿÿÿÿ
+Lphp:S836òl"2Review the data-flow - use of uninitialized value.(‘›½ìúÿÿÿÿ
+Lphp:S836”}"2Review the data-flow - use of uninitialized value.(´Îêÿÿÿÿÿ
+Lphp:S836£v"2Review the data-flow - use of uninitialized value.(¯¦Ëšûÿÿÿÿ
+Lphp:S836É("2Review the data-flow - use of uninitialized value.(ÏÙ½Şıÿÿÿÿ
+Gphp:S836ÏM"2Review the data-flow - use of uninitialized value.(Şõï±
+Lphp:S836Âa"2Review the data-flow - use of uninitialized value.(¢Ïè¶ÿÿÿÿÿ
+Gphp:S836·o"2Review the data-flow - use of uninitialized value.(Æ¬Ô¡
+Mphp:S836Á€"2Review the data-flow - use of uninitialized value.(ªúóşÿÿÿÿ
+Lphp:S836ëY"2Review the data-flow - use of uninitialized value.(¶ÂÒ¶ıÿÿÿÿ
+Lphp:S836—l"2Review the data-flow - use of uninitialized value.(ùÚªıÿÿÿÿÿ
+Lphp:S836š"2Review the data-flow - use of uninitialized value.(ƒİÈÿşÿÿÿÿ
+Gphp:S836âO"2Review the data-flow - use of uninitialized value.(èƒù³
+Gphp:S836Œ]"2Review the data-flow - use of uninitialized value.(³òêË
+Lphp:S836å+"2Review the data-flow - use of uninitialized value.(‹Âåşüÿÿÿÿ
+Gphp:S836½_"2Review the data-flow - use of uninitialized value.(Ï…Š¡
+z	php:S1448‹@"dClass "Request" has 151 methods, which is greater than 20 authorized. Split it into smaller classes.(°½½À
+Lphp:S836ÕY"2Review the data-flow - use of uninitialized value.(¦ç«üÿÿÿÿ
+Gphp:S836×"2Review the data-flow - use of uninitialized value.(ÆÎª
+Gphp:S836¡|"2Review the data-flow - use of uninitialized value.(‘ïÒÇ
+Lphp:S836Ó"2Review the data-flow - use of uninitialized value.(®¼Í„ÿÿÿÿÿ
+Gphp:S836Õ8"2Review the data-flow - use of uninitialized value.(ú‰âí
+Lphp:S836÷"2Review the data-flow - use of uninitialized value.(ßƒËÁøÿÿÿÿ
+Lphp:S836­"2Review the data-flow - use of uninitialized value.(‹›Ñùÿÿÿÿ
+Gphp:S836¿t"2Review the data-flow - use of uninitialized value.(Ã–Í
+Gphp:S836Ñ1"2Review the data-flow - use of uninitialized value.(Ç¾æ
+Gphp:S836ˆ
+"2Review the data-flow - use of uninitialized value.(ŞÏ°ø
+{	php:S1448âj"`Class "View" has 65 methods, which is greater than 20 authorized. Split it into smaller classes.(Ñ–´ïûÿÿÿÿ
+Mphp:S836‡€"2Review the data-flow - use of uninitialized value.(’ùúõıÿÿÿÿ
+Lphp:S836 ;"2Review the data-flow - use of uninitialized value.(©”‘ğüÿÿÿÿ
+Lphp:S836„}"2Review the data-flow - use of uninitialized value.(û·™Şşÿÿÿÿ
+Lphp:S836	"2Review the data-flow - use of uninitialized value.(‰ÖÚÀùÿÿÿÿ
+Kphp:S836b"2Review the data-flow - use of uninitialized value.(¯Õ’êúÿÿÿÿ
+Lphp:S836áR"2Review the data-flow - use of uninitialized value.(Ô·©Ôıÿÿÿÿ
+Lphp:S836f"2Review the data-flow - use of uninitialized value.(–ğ³€ÿÿÿÿÿ
+Lphp:S836¨"2Review the data-flow - use of uninitialized value.(´Ä­ßÿÿÿÿÿ
+Gphp:S836”D"2Review the data-flow - use of uninitialized value.(•™Óî
+Lphp:S836‹s"2Review the data-flow - use of uninitialized value.(¢Šõ·ÿÿÿÿÿ
+Lphp:S836¡"2Review the data-flow - use of uninitialized value.(íÒ¨õøÿÿÿÿ
+Lphp:S836½z"2Review the data-flow - use of uninitialized value.(¥Æ¢©üÿÿÿÿ
+Mphp:S836‰„"2Review the data-flow - use of uninitialized value.(ì‰¸üÿÿÿÿ
+Lphp:S836Œ<"2Review the data-flow - use of uninitialized value.(æãœ¦úÿÿÿÿ
+Gphp:S836„["2Review the data-flow - use of uninitialized value.(ª™¾Â
+Lphp:S836Á?"2Review the data-flow - use of uninitialized value.(ŞŒòÛüÿÿÿÿ
+Lphp:S836´"2Review the data-flow - use of uninitialized value.(’²€µşÿÿÿÿ
+Gphp:S836’x"2Review the data-flow - use of uninitialized value.(Ì¿ï
+Lphp:S836ş2"2Review the data-flow - use of uninitialized value.(Ã†×¹ûÿÿÿÿ
+Lphp:S836ü"2Review the data-flow - use of uninitialized value.(¹ôöèúÿÿÿÿ
+Gphp:S836¢"2Review the data-flow - use of uninitialized value.(íÖ‘ä
+Lphp:S836Å@"2Review the data-flow - use of uninitialized value.(ÚÏÛøÿÿÿÿ
+Lphp:S836ç"2Review the data-flow - use of uninitialized value.(ë‹á¥ıÿÿÿÿ
+Gphp:S836ö@"2Review the data-flow - use of uninitialized value.(Õ›ú”
+Lphp:S836èM"2Review the data-flow - use of uninitialized value.(ûìÙ’ùÿÿÿÿ
+Mphp:S836¿…"2Review the data-flow - use of uninitialized value.(üß•Ãıÿÿÿÿ
+Lphp:S836®["2Review the data-flow - use of uninitialized value.(Æ±ÕĞÿÿÿÿÿ
+Lphp:S8367"2Review the data-flow - use of uninitialized value.(—˜šàûÿÿÿÿ
+Gphp:S836ï'"2Review the data-flow - use of uninitialized value.(ø‹¤
+Lphp:S836Ï"2Review the data-flow - use of uninitialized value.(ãŸ×ıÿÿÿÿ
+Lphp:S836æ("2Review the data-flow - use of uninitialized value.(šî§ÿÿÿÿÿ
+Lphp:S836âb"2Review the data-flow - use of uninitialized value.( ùêÃşÿÿÿÿ
+Lphp:S836–&"2Review the data-flow - use of uninitialized value.(İ˜›Çşÿÿÿÿ
+Lphp:S836ƒM"2Review the data-flow - use of uninitialized value.(è±àùıÿÿÿÿ
+Lphp:S836d"2Review the data-flow - use of uninitialized value.(¤æ›ıÿÿÿÿ
+Gphp:S836Â"2Review the data-flow - use of uninitialized value.(ú‰âí
+Lphp:S836°m"2Review the data-flow - use of uninitialized value.(ı÷öˆûÿÿÿÿ
+Lphp:S836Ñ:"2Review the data-flow - use of uninitialized value.(ï‡üçúÿÿÿÿ
+Lphp:S836ğ"2Review the data-flow - use of uninitialized value.(õ™åÅûÿÿÿÿ
+Gphp:S836Ò7"2Review the data-flow - use of uninitialized value.(ª£©
+Gphp:S836ôG"2Review the data-flow - use of uninitialized value.(æ‹ò´
+Mphp:S836î€"2Review the data-flow - use of uninitialized value.(…âùÿÿÿÿ
+Lphp:S836âC"2Review the data-flow - use of uninitialized value.(Â«ÄÛşÿÿÿÿ
+Lphp:S836Õe"2Review the data-flow - use of uninitialized value.(ù­¹ıÿÿÿÿ
+Lphp:S836±&"2Review the data-flow - use of uninitialized value.(Å¦²‰ùÿÿÿÿ
+Lphp:S836Š/"2Review the data-flow - use of uninitialized value.(®•é«ÿÿÿÿÿ
+Gphp:S836Ø5"2Review the data-flow - use of uninitialized value.(£¸É¨
+Lphp:S836åU"2Review the data-flow - use of uninitialized value.(ƒ›¬õúÿÿÿÿ
+Lphp:S836Œ"2Review the data-flow - use of uninitialized value.(êó®Åüÿÿÿÿ
+Gphp:S836˜6"2Review the data-flow - use of uninitialized value.(©í‹á
+u	php:S1448ƒ4"`Class "Mail" has 34 methods, which is greater than 20 authorized. Split it into smaller classes.(™ Š"
+Lphp:S836ç"2Review the data-flow - use of uninitialized value.(äŒû•ùÿÿÿÿ
+Lphp:S836ğk"2Review the data-flow - use of uninitialized value.(…–ûÀøÿÿÿÿ
+Gphp:S836÷p"2Review the data-flow - use of uninitialized value.(ÉùœÂ
+Fphp:S836Æ2"2Review the data-flow - use of uninitialized value.(Ùµa
+Lphp:S836¶M"2Review the data-flow - use of uninitialized value.(ŞôÒ™ıÿÿÿÿ
+Lphp:S836¢ "2Review the data-flow - use of uninitialized value.(¡ƒäšûÿÿÿÿ
+Gphp:S836Ù"2Review the data-flow - use of uninitialized value.(ØÇ‰ê
+Gphp:S836˜I"2Review the data-flow - use of uninitialized value.(şãŸÀ
+Lphp:S836ªp"2Review the data-flow - use of uninitialized value.(½Œ–üÿÿÿÿ
+Gphp:S836'"2Review the data-flow - use of uninitialized value.(Ü»ÕŒ
+Gphp:S836š+"2Review the data-flow - use of uninitialized value.(×ÅŒ„
+Lphp:S836Ä:"2Review the data-flow - use of uninitialized value.(Ø¬ûÿÿÿÿ
+Fphp:S836ùo"2Review the data-flow - use of uninitialized value.(Š¥şM
+Lphp:S836Œ5"2Review the data-flow - use of uninitialized value.(¾üÉûşÿÿÿÿ
+Gphp:S836“ "2Review the data-flow - use of uninitialized value.(äô˜ì
+Gphp:S836ê
+"2Review the data-flow - use of uninitialized value.(Ğ²¶¯
+Gphp:S836†0"2Review the data-flow - use of uninitialized value.(‰Ş¶›
+Lphp:S836¼	"2Review the data-flow - use of uninitialized value.(ÆÀ‰Áüÿÿÿÿ
+Gphp:S836ƒ "2Review the data-flow - use of uninitialized value.(Êƒ³
+Gphp:S836‹m"2Review the data-flow - use of uninitialized value.(ıû—«
+Hphp:S836 ‚"2Review the data-flow - use of uninitialized value.(Ì“•µ
+Lphp:S836º`"2Review the data-flow - use of uninitialized value.(¤¼²Üşÿÿÿÿ
+Gphp:S836"2Review the data-flow - use of uninitialized value.(‡ßöú
+Gphp:S836 X"2Review the data-flow - use of uninitialized value.(ø¤ÿÿ
+Lphp:S836‰"2Review the data-flow - use of uninitialized value.(µÎƒƒÿÿÿÿÿ
+Lphp:S836™."2Review the data-flow - use of uninitialized value.(Ä£¸§üÿÿÿÿ
+Lphp:S836½"2Review the data-flow - use of uninitialized value.(é­èøøÿÿÿÿ
+Gphp:S836úW"2Review the data-flow - use of uninitialized value.(ËõÙ
+Fphp:S836üV"2Review the data-flow - use of uninitialized value.(¨œ¼]
+Lphp:S836Ë"2Review the data-flow - use of uninitialized value.(™ƒ©Àıÿÿÿÿ
+Gphp:S836á)"2Review the data-flow - use of uninitialized value.(“Â»
+Lphp:S836ñ!"2Review the data-flow - use of uninitialized value.(ÅŸé‰ûÿÿÿÿ
+Lphp:S836‹$"2Review the data-flow - use of uninitialized value.(×ğ¼ˆøÿÿÿÿ
+Lphp:S836îS"2Review the data-flow - use of uninitialized value.( ôÓÏÿÿÿÿÿ
+Gphp:S836­	"2Review the data-flow - use of uninitialized value.(€€İ»
+Lphp:S836€"2Review the data-flow - use of uninitialized value.(ßğÎüÿÿÿÿ
+Gphp:S836®I"2Review the data-flow - use of uninitialized value.(¿òè§
+Gphp:S836™]"2Review the data-flow - use of uninitialized value.(÷çËÔ
+Lphp:S836ş#"2Review the data-flow - use of uninitialized value.(®Ï¿€şÿÿÿÿ
+Lphp:S836Úl"2Review the data-flow - use of uninitialized value.(ñÄŞúÿÿÿÿ
+Lphp:S836é|"2Review the data-flow - use of uninitialized value.(…¤ë¡ùÿÿÿÿ
+Gphp:S836õ,"2Review the data-flow - use of uninitialized value.(÷Û§Ó
+Fphp:S836»e"2Review the data-flow - use of uninitialized value.(º§¿"
+Gphp:S836‘F"2Review the data-flow - use of uninitialized value.(Í±¤ë
+Lphp:S836×"2Review the data-flow - use of uninitialized value.(ñËÜ øÿÿÿÿ
+Lphp:S836ëo"2Review the data-flow - use of uninitialized value.(°½İãıÿÿÿÿ
+Gphp:S836¦<"2Review the data-flow - use of uninitialized value.(•ïı„
+Lphp:S836„r"2Review the data-flow - use of uninitialized value.(…»åˆùÿÿÿÿ
+Gphp:S836Şz"2Review the data-flow - use of uninitialized value.(¸Ú©ø
+Lphp:S836óI"2Review the data-flow - use of uninitialized value.(Ú›ıŠúÿÿÿÿ
+Fphp:S836–"2Review the data-flow - use of uninitialized value.(¤««?
+Lphp:S836ÌQ"2Review the data-flow - use of uninitialized value.(‚ëÁ§ùÿÿÿÿ
+Lphp:S836»"2Review the data-flow - use of uninitialized value.(ã»¹ƒûÿÿÿÿ
+Lphp:S836‡U"2Review the data-flow - use of uninitialized value.(€ßÈ«ıÿÿÿÿ
+Lphp:S836Ö>"2Review the data-flow - use of uninitialized value.(óíåƒûÿÿÿÿ
+Lphp:S836äK"2Review the data-flow - use of uninitialized value.(šÊ‹®üÿÿÿÿ
+Gphp:S836£"2Review the data-flow - use of uninitialized value.(·úş¹
+Gphp:S836Ä"2Review the data-flow - use of uninitialized value.(Ï¡Œ†
+Gphp:S836…;"2Review the data-flow - use of uninitialized value.(›ü²å
+Gphp:S836İ"2Review the data-flow - use of uninitialized value.(…ô‹
+Lphp:S836ıR"2Review the data-flow - use of uninitialized value.(”¥ƒÀşÿÿÿÿ
+Hphp:S836Ş‚"2Review the data-flow - use of uninitialized value.(Ã³ƒ¬
+Gphp:S836êN"2Review the data-flow - use of uninitialized value.(õİ
+Hphp:S836¾„"2Review the data-flow - use of uninitialized value.(®‡íÔ
+Lphp:S836›{"2Review the data-flow - use of uninitialized value.(ÏÉğïÿÿÿÿÿ
+Gphp:S836ô$"2Review the data-flow - use of uninitialized value.(‚…ÆØ
+Gphp:S836ís"2Review the data-flow - use of uninitialized value.(¹Ş¦ÿ
+Lphp:S836£"2Review the data-flow - use of uninitialized value.(…¶³¡øÿÿÿÿ
+Gphp:S836‰"2Review the data-flow - use of uninitialized value.(Öö·½
+Gphp:S836“>"2Review the data-flow - use of uninitialized value.(¦­‚
+Lphp:S836Å1"2Review the data-flow - use of uninitialized value.(ÈÆğÅúÿÿÿÿ
+Lphp:S836òF"2Review the data-flow - use of uninitialized value.(ß«Õáûÿÿÿÿ
+Gphp:S836´"2Review the data-flow - use of uninitialized value.(äöß
+Lphp:S836é"2Review the data-flow - use of uninitialized value.(ù¿¤´øÿÿÿÿ
+Gphp:S836€."2Review the data-flow - use of uninitialized value.(£·ÔÓ
+Lphp:S836Ø/"2Review the data-flow - use of uninitialized value.(¬Îßûûÿÿÿÿ
+Lphp:S836¬L"2Review the data-flow - use of uninitialized value.(©Ôí»ûÿÿÿÿ
+Gphp:S836‹T"2Review the data-flow - use of uninitialized value.(ë›×ª
+Gphp:S836ß`"2Review the data-flow - use of uninitialized value.(‰ÿŸş
+Gphp:S836±?"2Review the data-flow - use of uninitialized value.(¡¾¾ˆ
+Lphp:S836Ñs"2Review the data-flow - use of uninitialized value.(ßËÿ¯ûÿÿÿÿ
+Lphp:S836Çw"2Review the data-flow - use of uninitialized value.(¼ˆãøÿÿÿÿ
+Lphp:S836¨="2Review the data-flow - use of uninitialized value.(Öëùÿÿÿÿ
+Lphp:S836Õ"2Review the data-flow - use of uninitialized value.(®¼Í„ÿÿÿÿÿ
+Fphp:S836Ò`"2Review the data-flow - use of uninitialized value.(Ş–«<
+Mphp:S836¿"2Review the data-flow - use of uninitialized value.(±æ¿şÿÿÿÿ
+Gphp:S836·T"2Review the data-flow - use of uninitialized value.(âÅÑ
+Lphp:S836ş "2Review the data-flow - use of uninitialized value.(£Àøùøÿÿÿÿ
+Lphp:S836è"2Review the data-flow - use of uninitialized value.(°ì®Àıÿÿÿÿ
+Gphp:S836¯("2Review the data-flow - use of uninitialized value.(Âª‘Ü
+Lphp:S836ó"2Review the data-flow - use of uninitialized value.(¬´ß¥øÿÿÿÿ
+Lphp:S836©!"2Review the data-flow - use of uninitialized value.(Õ¢ƒ¾ûÿÿÿÿ
+Gphp:S836—v"2Review the data-flow - use of uninitialized value.(ÛË–‰
+Lphp:S836 e"2Review the data-flow - use of uninitialized value.(È¬„·ûÿÿÿÿ
+Lphp:S836¸{"2Review the data-flow - use of uninitialized value.(ıó¦ëûÿÿÿÿ
+Lphp:S836ˆ"2Review the data-flow - use of uninitialized value.(Àíæ‹ıÿÿÿÿ
+Lphp:S836õ"2Review the data-flow - use of uninitialized value.(àÀ¾ªûÿÿÿÿ
+Gphp:S836Âl"2Review the data-flow - use of uninitialized value.(ê¨™
+Fphp:S836ıO"2Review the data-flow - use of uninitialized value.(¼›–P
+Fphp:S836¥6"2Review the data-flow - use of uninitialized value.(È‰æ;
+Lphp:S836º"2Review the data-flow - use of uninitialized value.(âãíûúÿÿÿÿ
+Gphp:S836…"2Review the data-flow - use of uninitialized value.(®´Éâ
+Lphp:S836Û"2Review the data-flow - use of uninitialized value.(µÚù´ıÿÿÿÿ
+Lphp:S836¯*"2Review the data-flow - use of uninitialized value.(…³¬¨ûÿÿÿÿ
+Lphp:S836ş"2Review the data-flow - use of uninitialized value.(ş­Ìûøÿÿÿÿ
+Gphp:S836Š"2Review the data-flow - use of uninitialized value.(Ş¯…
+Fphp:S836ÉC"2Review the data-flow - use of uninitialized value.(›·ôB
+Lphp:S836¼("2Review the data-flow - use of uninitialized value.(¥ûôııÿÿÿÿ
+Gphp:S836Î"2Review the data-flow - use of uninitialized value.(¬ÙÖ
+Gphp:S836ò+"2Review the data-flow - use of uninitialized value.(ÆÄüÅ
+Lphp:S836¹@"2Review the data-flow - use of uninitialized value.(çÊûÿÿÿÿ
+Gphp:S836ï_"2Review the data-flow - use of uninitialized value.(×Ôíû
+Gphp:S836Úi"2Review the data-flow - use of uninitialized value.(·ÿ®ƒ
+Gphp:S836—t"2Review the data-flow - use of uninitialized value.(Ğš°
+Gphp:S836ƒN"2Review the data-flow - use of uninitialized value.(ü§Â
+Gphp:S836Øg"2Review the data-flow - use of uninitialized value.(Óè±®
+Lphp:S836šh"2Review the data-flow - use of uninitialized value.( ğÑÍüÿÿÿÿ
+Lphp:S836‹_"2Review the data-flow - use of uninitialized value.(ûìÙ’ùÿÿÿÿ
+Hphp:S836“‚"2Review the data-flow - use of uninitialized value.(íÒè
+Lphp:S836M"2Review the data-flow - use of uninitialized value.(‹ ±íşÿÿÿÿ
+Fphp:S836¤&"2Review the data-flow - use of uninitialized value.(İ‘Ÿh
+Lphp:S836‘"2Review the data-flow - use of uninitialized value.(Ş–ûüÿÿÿÿ
+Gphp:S836É*"2Review the data-flow - use of uninitialized value.(àÊúÔ
+Lphp:S836"2Review the data-flow - use of uninitialized value.(Î·î‹ûÿÿÿÿ
+Gphp:S836³"2Review the data-flow - use of uninitialized value.(Ğ¹èä
+Gphp:S836¬r"2Review the data-flow - use of uninitialized value.(®ìœÀ
+Lphp:S836ÕC"2Review the data-flow - use of uninitialized value.(¹Ìà×şÿÿÿÿ
+Lphp:S836Èx"2Review the data-flow - use of uninitialized value.(ä— şÿÿÿÿ
+Mphp:S836Ñ€"2Review the data-flow - use of uninitialized value.(ò¥¿ıÿÿÿÿ
+Lphp:S836Ö_"2Review the data-flow - use of uninitialized value.(öä›ÿıÿÿÿÿ
+Gphp:S836íT"2Review the data-flow - use of uninitialized value.(È©Œæ
+Gphp:S836§"2Review the data-flow - use of uninitialized value.(ÄŸŸü
+Fphp:S836ÜQ"2Review the data-flow - use of uninitialized value.(—À³U
+Lphp:S836ÖH"2Review the data-flow - use of uninitialized value.(€¿ÖÎüÿÿÿÿ
+Gphp:S836‚x"2Review the data-flow - use of uninitialized value.(“¦Áæ
+Gphp:S836¨"2Review the data-flow - use of uninitialized value.(¼”Ÿˆ
+Gphp:S836Œ{"2Review the data-flow - use of uninitialized value.(«¾²²
+Lphp:S836Ö"2Review the data-flow - use of uninitialized value.(µÙƒşÿÿÿÿ
+Gphp:S836¯U"2Review the data-flow - use of uninitialized value.(Ÿÿø
+Gphp:S836í"2Review the data-flow - use of uninitialized value.(äÉˆê
+Fphp:S836ù"2Review the data-flow - use of uninitialized value.(¹×ô}
+Gphp:S836¹4"2Review the data-flow - use of uninitialized value.(Á÷Ú´
+Lphp:S836è"2Review the data-flow - use of uninitialized value.(«ÖÙ±øÿÿÿÿ
+Gphp:S836œG"2Review the data-flow - use of uninitialized value.(Š¹Šó
+Lphp:S836”U"2Review the data-flow - use of uninitialized value.(ÇÒÛ—úÿÿÿÿ
+Gphp:S836øY"2Review the data-flow - use of uninitialized value.( ˆıÿ
+Lphp:S836»J"2Review the data-flow - use of uninitialized value.(÷ˆ†ôøÿÿÿÿ
+Lphp:S836‹S"2Review the data-flow - use of uninitialized value.(Ğ˜¹åûÿÿÿÿ
+Gphp:S836³}"2Review the data-flow - use of uninitialized value.(ˆºöÛ
+Gphp:S836ù	"2Review the data-flow - use of uninitialized value.(çª•¹
+Fphp:S836á}"2Review the data-flow - use of uninitialized value.(ëµªU
+Gphp:S836»-"2Review the data-flow - use of uninitialized value.(¾˜ÿÁ
+Hphp:S836Åƒ"2Review the data-flow - use of uninitialized value.(›áÊ
+Lphp:S836ş4"2Review the data-flow - use of uninitialized value.(ŞØ¶‹øÿÿÿÿ
+{	php:S1448Ë/"`Class "Lang" has 25 methods, which is greater than 20 authorized. Split it into smaller classes.(±¼Äêùÿÿÿÿ
+Gphp:S836çA"2Review the data-flow - use of uninitialized value.(«ŠÅ
+Gphp:S836Ö#"2Review the data-flow - use of uninitialized value.(—Éá¨
+Lphp:S836ë"2Review the data-flow - use of uninitialized value.(ÎÌÒğÿÿÿÿÿ
+Lphp:S836î0"2Review the data-flow - use of uninitialized value.(Áœ®¥şÿÿÿÿ
+Gphp:S836ª8"2Review the data-flow - use of uninitialized value.(â¨ä÷
+Lphp:S836%"2Review the data-flow - use of uninitialized value.(ñâƒûşÿÿÿÿ
+Gphp:S836‡C"2Review the data-flow - use of uninitialized value.(îÈ¡ø
+Lphp:S836Ş1"2Review the data-flow - use of uninitialized value.(£õÈˆşÿÿÿÿ
+Gphp:S836’E"2Review the data-flow - use of uninitialized value.(¿Ãé¸
+Gphp:S836b"2Review the data-flow - use of uninitialized value.(ú‰âí
+Fphp:S836¶p"2Review the data-flow - use of uninitialized value.(€şÜ@
+Lphp:S836ÓX"2Review the data-flow - use of uninitialized value.(ğñÄñşÿÿÿÿ
+Lphp:S836½"2Review the data-flow - use of uninitialized value.(©Öï¶şÿÿÿÿ
+Gphp:S836Ú6"2Review the data-flow - use of uninitialized value.(ôí×£
+Lphp:S836¯F"2Review the data-flow - use of uninitialized value.(ØÕùÒûÿÿÿÿ
+Gphp:S836½W"2Review the data-flow - use of uninitialized value.(ßÚ¦ô
+Lphp:S836‘"2Review the data-flow - use of uninitialized value.(‡ŒõÚıÿÿÿÿ
+Gphp:S836ªN"2Review the data-flow - use of uninitialized value.(³òêË
+Lphp:S836ë]"2Review the data-flow - use of uninitialized value.(ç»ØÈşÿÿÿÿ
+v	php:S1448â"`Class "Auth" has 48 methods, which is greater than 20 authorized. Split it into smaller classes.(€£êğ
+Gphp:S836³"2Review the data-flow - use of uninitialized value.(‰ÈÈâ
+Lphp:S836Òb"2Review the data-flow - use of uninitialized value.(êÕ×Šıÿÿÿÿ
+Lphp:S836a"2Review the data-flow - use of uninitialized value.(ËÚŒúÿÿÿÿ
+Lphp:S836ç"2Review the data-flow - use of uninitialized value.(ÇÔåÑøÿÿÿÿ
+Gphp:S836Ç"2Review the data-flow - use of uninitialized value.(ñáÙü
+Gphp:S836ğV"2Review the data-flow - use of uninitialized value.(œÁÛÖ
+Lphp:S836¨d"2Review the data-flow - use of uninitialized value.(…³¬¨ûÿÿÿÿ
+Lphp:S836âf"2Review the data-flow - use of uninitialized value.(ªí÷íøÿÿÿÿ
+Lphp:S836Â]"2Review the data-flow - use of uninitialized value.(¯‹Ñóÿÿÿÿÿ
+Lphp:S836äx"2Review the data-flow - use of uninitialized value.(ÜÂª·ûÿÿÿÿ
+Lphp:S836­O"2Review the data-flow - use of uninitialized value.(‡¿ç«ùÿÿÿÿ
+Lphp:S836’O"2Review the data-flow - use of uninitialized value.(áÆ‚úùÿÿÿÿ
+Gphp:S836û"2Review the data-flow - use of uninitialized value.(í›„­
+Lphp:S836ø"2Review the data-flow - use of uninitialized value.(³Ñ¼±úÿÿÿÿ
+Lphp:S836¹"2Review the data-flow - use of uninitialized value.(£¯ƒúÿÿÿÿ
+z	php:S1448"`Class "App" has 108 methods, which is greater than 20 authorized. Split it into smaller classes.(­Ğé»ûÿÿÿÿ
+Gphp:S836Á
+"2Review the data-flow - use of uninitialized value.(ş¥µ‡
+Lphp:S836ÿ5"2Review the data-flow - use of uninitialized value.(ÖÅé‘øÿÿÿÿ
+Lphp:S836óh"2Review the data-flow - use of uninitialized value.(«¥º—ÿÿÿÿÿ
+Lphp:S836—
+"2Review the data-flow - use of uninitialized value.(¦Áò¼ûÿÿÿÿ
+Gphp:S836Ç~"2Review the data-flow - use of uninitialized value.(Êß­´
+Lphp:S836ú"2Review the data-flow - use of uninitialized value.(¸‹ı±ûÿÿÿÿ
+Lphp:S836ì"2Review the data-flow - use of uninitialized value.(‹ÅÜøÿÿÿÿ
+Gphp:S836©>"2Review the data-flow - use of uninitialized value.(¨›Ú
+Lphp:S836Ä0"2Review the data-flow - use of uninitialized value.(¡ìÍ÷ûÿÿÿÿ
+Gphp:S836Øy"2Review the data-flow - use of uninitialized value.(µ©”µ
+Hphp:S836—„"2Review the data-flow - use of uninitialized value.(ÚÏ¿¸
+Gphp:S836”J"2Review the data-flow - use of uninitialized value.(˜ÁÖÍ
+Lphp:S836 1"2Review the data-flow - use of uninitialized value.(‡äÅøÿÿÿÿ
+Lphp:S836Ç;"2Review the data-flow - use of uninitialized value.(ª“ùíøÿÿÿÿ
+Fphp:S836ó"2Review the data-flow - use of uninitialized value.(ºÜ‹
+Gphp:S836Ô2"2Review the data-flow - use of uninitialized value.(¿‰éÉ
+Lphp:S836ø7"2Review the data-flow - use of uninitialized value.(¸ôœÿøÿÿÿÿ
+Gphp:S836Ş@"2Review the data-flow - use of uninitialized value.(­Î©¹
+Gphp:S836‡^"2Review the data-flow - use of uninitialized value.(­ü‚
+Lphp:S836±"2Review the data-flow - use of uninitialized value.(ÀŒ¢ƒûÿÿÿÿ
+Lphp:S836ŸO"2Review the data-flow - use of uninitialized value.(¸›µ»øÿÿÿÿ
+Gphp:S836½g"2Review the data-flow - use of uninitialized value.(üÅğ´
+Gphp:S836""2Review the data-flow - use of uninitialized value.(¢¨•³
+Lphp:S836¿^"2Review the data-flow - use of uninitialized value.(÷©Ùÿÿÿÿÿ
+Ephp:S836«q"2Review the data-flow - use of uninitialized value.(³<
+Gphp:S836â8"2Review the data-flow - use of uninitialized value.(“•·û
+Lphp:S836›f"2Review the data-flow - use of uninitialized value.(³¨æ¾üÿÿÿÿ
+Gphp:S836Ü"2Review the data-flow - use of uninitialized value.(ÿƒ·Ë
+Gphp:S836º"2Review the data-flow - use of uninitialized value.(Ğ™
+Lphp:S836‹L"2Review the data-flow - use of uninitialized value.(â–­Èúÿÿÿÿ
+Gphp:S836ç\"2Review the data-flow - use of uninitialized value.(Œ×ÇŞ
+Hphp:S836Ë…"2Review the data-flow - use of uninitialized value.(óáã‘
+Gphp:S836¾n"2Review the data-flow - use of uninitialized value.(ì±Å
+Hphp:S836¢€"2Review the data-flow - use of uninitialized value.(äÃ®ì
+Gphp:S836­@"2Review the data-flow - use of uninitialized value.(‰»Ç®
+Gphp:S836·N"2Review the data-flow - use of uninitialized value.(÷çËÔ
+Gphp:S836©"2Review the data-flow - use of uninitialized value.(ú¾ñ™
+Lphp:S836®;"2Review the data-flow - use of uninitialized value.(Œ¹ëéşÿÿÿÿ
+Lphp:S836Q"2Review the data-flow - use of uninitialized value.(·¿üˆşÿÿÿÿ
+Lphp:S836şP"2Review the data-flow - use of uninitialized value.(¼“´Şúÿÿÿÿ
+Gphp:S836ÈJ"2Review the data-flow - use of uninitialized value.(Œ´³
+Gphp:S836«)"2Review the data-flow - use of uninitialized value.(Æı­ú
+Gphp:S836Ú|"2Review the data-flow - use of uninitialized value.(ôåœ›
+Gphp:S836¥"2Review the data-flow - use of uninitialized value.(•íöÃ
+Gphp:S836’?"2Review the data-flow - use of uninitialized value.(Æ¬˜µ
+Lphp:S836‚7"2Review the data-flow - use of uninitialized value.(ÛÛ¯şÿÿÿÿ
+Fphp:S836:"2Review the data-flow - use of uninitialized value.(Ü¯“Ê
+Fphp:S836Ó"2Review the data-flow - use of uninitialized value.(Ûœ°z
+Gphp:S836”("2Review the data-flow - use of uninitialized value.(öÍî´
+Gphp:S836A"2Review the data-flow - use of uninitialized value.(ÔÃâô
+Lphp:S836ÜM"2Review the data-flow - use of uninitialized value.(¦¹¤ÿÿÿÿÿ
+Gphp:S836ğj"2Review the data-flow - use of uninitialized value.(Ö¸Œª
+Fphp:S836ı;"2Review the data-flow - use of uninitialized value.(¾‡ç
+Gphp:S836Ÿk"2Review the data-flow - use of uninitialized value.(Û€›¶
+Lphp:S836œ"2Review the data-flow - use of uninitialized value.(„©Ûùÿÿÿÿ
+Lphp:S836‚"2Review the data-flow - use of uninitialized value.(‹’¸¿ûÿÿÿÿ
+Gphp:S836Ìn"2Review the data-flow - use of uninitialized value.(†ÿù°
+Gphp:S836Œ"2Review the data-flow - use of uninitialized value.(Û¿À¥
+Gphp:S836Í"2Review the data-flow - use of uninitialized value.(˜Òíï
+Lphp:S836"2Review the data-flow - use of uninitialized value.( È²—úÿÿÿÿ
+Fphp:S836"2Review the data-flow - use of uninitialized value.(×ÆÙ@
+Lphp:S836…("2Review the data-flow - use of uninitialized value.(œ‘×Øÿÿÿÿÿ
+Gphp:S836šT"2Review the data-flow - use of uninitialized value.(šûÒË
+Lphp:S836Ìt"2Review the data-flow - use of uninitialized value.(Ó–æÿşÿÿÿÿ
+Lphp:S836Ş"2Review the data-flow - use of uninitialized value.(¯˜±²üÿÿÿÿ
+Lphp:S836Æ"2Review the data-flow - use of uninitialized value.(ŒèšÂıÿÿÿÿ
+Lphp:S836ÑS"2Review the data-flow - use of uninitialized value.(óùôêüÿÿÿÿ
+Gphp:S836ši"2Review the data-flow - use of uninitialized value.( ¦ Ô
+Lphp:S836"2Review the data-flow - use of uninitialized value.(ÓÙÃ¦øÿÿÿÿ
+Gphp:S836ƒ|"2Review the data-flow - use of uninitialized value.(ƒ±ÜÎ
+Gphp:S836ºc"2Review the data-flow - use of uninitialized value.(ÿ¿çÛ
+Gphp:S836üy"2Review the data-flow - use of uninitialized value.(Œğ»
+Gphp:S836~"2Review the data-flow - use of uninitialized value.(§Ç‚Ñ
+Gphp:S836»O"2Review the data-flow - use of uninitialized value.(î›Ëà
+Lphp:S836¬Z"2Review the data-flow - use of uninitialized value.(¹®ñıÿÿÿÿ
+Gphp:S836År"2Review the data-flow - use of uninitialized value.(¡·Ø‰
+Fphp:S836¯D"2Review the data-flow - use of uninitialized value.(Û˜0
+Gphp:S836¼k"2Review the data-flow - use of uninitialized value.(óß©ã
+Lphp:S836ÂM"2Review the data-flow - use of uninitialized value.(•§òÍûÿÿÿÿ
+Lphp:S836ÙZ"2Review the data-flow - use of uninitialized value.(¥ğûÿÿÿÿ
+Hphp:S836Ì"2Review the data-flow - use of uninitialized value.(¸®ÎÁ
+Gphp:S836Õ!"2Review the data-flow - use of uninitialized value.(–²’
+Lphp:S836È#"2Review the data-flow - use of uninitialized value.(Ò¸¸¸ıÿÿÿÿ
+Lphp:S836•*"2Review the data-flow - use of uninitialized value.(åæ¯ùÿÿÿÿ
+Gphp:S836ÚG"2Review the data-flow - use of uninitialized value.(ÂúÉ
+Gphp:S836—_"2Review the data-flow - use of uninitialized value.(Šûù²
+Gphp:S836ã#"2Review the data-flow - use of uninitialized value.(ÖÏÑª
+Gphp:S836é3"2Review the data-flow - use of uninitialized value.(ú‰âí
+Lphp:S836æh"2Review the data-flow - use of uninitialized value.(˜—Úâşÿÿÿÿ
+Lphp:S836ßS"2Review the data-flow - use of uninitialized value.(²àÂÆşÿÿÿÿ
+Gphp:S836³"2Review the data-flow - use of uninitialized value.(­Ìüˆ
+Fphp:S836+"2Review the data-flow - use of uninitialized value.(àç%
+Gphp:S836Ê"2Review the data-flow - use of uninitialized value.(Ç¼‡÷
+Lphp:S836™"2Review the data-flow - use of uninitialized value.(ºòÊÑıÿÿÿÿ
+Gphp:S836ëi"2Review the data-flow - use of uninitialized value.(«¡Ûå
+Lphp:S836¡["2Review the data-flow - use of uninitialized value.(Ëòƒşÿÿÿÿ
+Fphp:S836’q"2Review the data-flow - use of uninitialized value.(ûÈú/
+Lphp:S836’r"2Review the data-flow - use of uninitialized value.(áÀò£şÿÿÿÿ
+Lphp:S836£"2Review the data-flow - use of uninitialized value.(Íş‡šúÿÿÿÿ
+Gphp:S836ÉK"2Review the data-flow - use of uninitialized value.(Øá§¬
+Gphp:S836Ñ"2Review the data-flow - use of uninitialized value.(÷çËÔ
+Gphp:S836ïR"2Review the data-flow - use of uninitialized value.(¥Ãæ²
+Lphp:S836¾,"2Review the data-flow - use of uninitialized value.(Œ„ÖÒıÿÿÿÿ
+Gphp:S836­`"2Review the data-flow - use of uninitialized value.(°áß
+Lphp:S836®J"2Review the data-flow - use of uninitialized value.(šœåªüÿÿÿÿ
+Gphp:S836…"2Review the data-flow - use of uninitialized value.(”õÔ@
+Lphp:S836¸5"2Review the data-flow - use of uninitialized value.(“Äİ±üÿÿÿÿ
+Lphp:S836—"2Review the data-flow - use of uninitialized value.(®‡Ùûÿÿÿÿ
+Lphp:S836å{"2Review the data-flow - use of uninitialized value.(£üööúÿÿÿÿ
+Gphp:S836¾&"2Review the data-flow - use of uninitialized value.(¾íâù
+Lphp:S836Üp"2Review the data-flow - use of uninitialized value.(œëÂÜıÿÿÿÿ
+Gphp:S836"2Review the data-flow - use of uninitialized value.(­œ«ô
+Lphp:S836ô"2Review the data-flow - use of uninitialized value.(òóÏÀûÿÿÿÿ
+Lphp:S836‡1"2Review the data-flow - use of uninitialized value.(±á­Òúÿÿÿÿ
+Lphp:S836Q"2Review the data-flow - use of uninitialized value.(è‚Áãøÿÿÿÿ
+Lphp:S836‹w"2Review the data-flow - use of uninitialized value.(¸Œ’ÿÿÿÿÿ
+Lphp:S836Ÿc"2Review the data-flow - use of uninitialized value.(ø¨šıùÿÿÿÿ
+Gphp:S836€~"2Review the data-flow - use of uninitialized value.(¸öì°
+Gphp:S836"2Review the data-flow - use of uninitialized value.(´“”Ì
+Gphp:S836Ï
+"2Review the data-flow - use of uninitialized value.(¶Ø„
+Lphp:S836¼I"2Review the data-flow - use of uninitialized value.(›æı»ıÿÿÿÿ
+Lphp:S836ÆV"2Review the data-flow - use of uninitialized value.(§í•éÿÿÿÿÿ
+Gphp:S836"2Review the data-flow - use of uninitialized value.(Ûåñ×
+Lphp:S836†Y"2Review the data-flow - use of uninitialized value.(„Í¬×üÿÿÿÿ
+Fphp:S836Õv"2Review the data-flow - use of uninitialized value.(•şÌe
+Lphp:S836¬4"2Review the data-flow - use of uninitialized value.(ªóÖÅùÿÿÿÿ
+Fphp:S836ü<"2Review the data-flow - use of uninitialized value.(ìÎ½E
+Hphp:S836‘ƒ"2Review the data-flow - use of uninitialized value.(‡«ŒÓ
+Gphp:S836ü_"2Review the data-flow - use of uninitialized value.(‰ª³±
+Gphp:S836Ú"2Review the data-flow - use of uninitialized value.(øÉ‘
+Lphp:S836›="2Review the data-flow - use of uninitialized value.(Ê½È³ûÿÿÿÿ
+Gphp:S836Ì"2Review the data-flow - use of uninitialized value.(‚¦—è
+Lphp:S836åd"2Review the data-flow - use of uninitialized value.(ÕŒµ¹ıÿÿÿÿ
+Lphp:S836ŒV"2Review the data-flow - use of uninitialized value.(Å´­ÿÿÿÿÿ
+Gphp:S836Ÿr"2Review the data-flow - use of uninitialized value.(Ìàó
+Lphp:S836ÂS"2Review the data-flow - use of uninitialized value.(«‰·èüÿÿÿÿ
+Gphp:S836¶w"2Review the data-flow - use of uninitialized value.(™Ò¿¬
+Lphp:S836İ
+"2Review the data-flow - use of uninitialized value.(úİ†šşÿÿÿÿ
+Lphp:S836©"2Review the data-flow - use of uninitialized value.(ª“ùíøÿÿÿÿ
+Lphp:S836„"2Review the data-flow - use of uninitialized value.( Šï¿şÿÿÿÿ
+Lphp:S836§"2Review the data-flow - use of uninitialized value.(“Æº¯øÿÿÿÿ
+Hphp:S836ƒ"2Review the data-flow - use of uninitialized value.(¾ÎÙï
+Lphp:S836ü"2Review the data-flow - use of uninitialized value.(Ä³ÿµûÿÿÿÿ
+Lphp:S836µ]"2Review the data-flow - use of uninitialized value.(ƒİÈÿşÿÿÿÿ
+Lphp:S836o"2Review the data-flow - use of uninitialized value.(’ŸÃàûÿÿÿÿ
+Lphp:S836ıS"2Review the data-flow - use of uninitialized value.(ëÑ‘½üÿÿÿÿ
+Lphp:S836Î"2Review the data-flow - use of uninitialized value.(Ñ¹¶øøÿÿÿÿ
+Lphp:S836úT"2Review the data-flow - use of uninitialized value.(É†€üÿÿÿÿ
+Lphp:S836œL"2Review the data-flow - use of uninitialized value.(êîğÚüÿÿÿÿ
+Lphp:S836 K"2Review the data-flow - use of uninitialized value.(ë–®‘üÿÿÿÿ
+Lphp:S836Æ>"2Review the data-flow - use of uninitialized value.(Ú”Èÿÿÿÿÿ
+Gphp:S836¦j"2Review the data-flow - use of uninitialized value.(•½¦×
+Gphp:S836“"2Review the data-flow - use of uninitialized value.(’¿èª
+Gphp:S836îP"2Review the data-flow - use of uninitialized value.(Èôâ‰
+Gphp:S836½"2Review the data-flow - use of uninitialized value.(ê­œã
+Gphp:S836ø="2Review the data-flow - use of uninitialized value.(‰½åï
+Lphp:S836ã*"2Review the data-flow - use of uninitialized value.(Ç¢Öªûÿÿÿÿ
+Lphp:S836Ú"2Review the data-flow - use of uninitialized value.(ÈÆğÅúÿÿÿÿ
+Gphp:S836Îl"2Review the data-flow - use of uninitialized value.(Äı®ó
+Gphp:S836¤n"2Review the data-flow - use of uninitialized value.(ÊÑµÄ
+Gphp:S836¡U"2Review the data-flow - use of uninitialized value.(àõËï
+Lphp:S836ÔV"2Review the data-flow - use of uninitialized value.(©§ì°ıÿÿÿÿ
+Gphp:S836Ì	"2Review the data-flow - use of uninitialized value.(ƒÂ¬Ï
+Lphp:S836Ó0"2Review the data-flow - use of uninitialized value.(ø´Šªıÿÿÿÿ
+Gphp:S836ø"2Review the data-flow - use of uninitialized value.(º­ û
+Lphp:S836Â}"2Review the data-flow - use of uninitialized value.(ë³Ÿøÿÿÿÿ
+J	php:S1603õ3"4Replace this function name "log" with "__construct".(ñàº¥
+Lphp:S836Èe"2Review the data-flow - use of uninitialized value.(ê©ÑÅùÿÿÿÿ
+Gphp:S836¼D"2Review the data-flow - use of uninitialized value.(Òáİ‹
+Gphp:S836y"2Review the data-flow - use of uninitialized value.(ù™ÑÈ
+Lphp:S8368"2Review the data-flow - use of uninitialized value.(÷†ûÿÿÿÿ
+Gphp:S836õ"2Review the data-flow - use of uninitialized value.(äšæ²
+Gphp:S836¯,"2Review the data-flow - use of uninitialized value.(ƒÈ›˜
+Lphp:S836Ÿ-"2Review the data-flow - use of uninitialized value.(üŸ…²ıÿÿÿÿ
+Lphp:S836º."2Review the data-flow - use of uninitialized value.(Ğ×ìúÿÿÿÿ
+Gphp:S836ñU"2Review the data-flow - use of uninitialized value.(¨¡¶™
+Gphp:S836›5"2Review the data-flow - use of uninitialized value.(âÊ’ì
+Lphp:S836—m"2Review the data-flow - use of uninitialized value.(‰…†²ûÿÿÿÿ
+Gphp:S836òw"2Review the data-flow - use of uninitialized value.(ˆ’±Ú
+Fphp:S836ñ}"2Review the data-flow - use of uninitialized value.(Ï­ûg
+Gphp:S836"2Review the data-flow - use of uninitialized value.(ç…šÕ
+Gphp:S836êL"2Review the data-flow - use of uninitialized value.(±›½Ü
+Gphp:S836¯"2Review the data-flow - use of uninitialized value.(­ü‚
+Lphp:S836ãJ"2Review the data-flow - use of uninitialized value.(€ì³™şÿÿÿÿ
+Lphp:S836ä~"2Review the data-flow - use of uninitialized value.(ÖáŒúÿÿÿÿ
+Gphp:S836¡?"2Review the data-flow - use of uninitialized value.(…¶¸
+Gphp:S836ÕJ"2Review the data-flow - use of uninitialized value.(˜Òíï
+Gphp:S836Ò"2Review the data-flow - use of uninitialized value.(³ç’¦
+Gphp:S836Ó"2Review the data-flow - use of uninitialized value.(“¯¿ú
+Gphp:S836ê"2Review the data-flow - use of uninitialized value.(÷çËÔ
+Lphp:S836¨a"2Review the data-flow - use of uninitialized value.(ºîĞüÿÿÿÿ
+Gphp:S836’Y"2Review the data-flow - use of uninitialized value.(İîÚ
+Gphp:S836Ø+"2Review the data-flow - use of uninitialized value.(úÑ
+Hphp:S836Òƒ"2Review the data-flow - use of uninitialized value.(äüæ¢
+Gphp:S836ê""2Review the data-flow - use of uninitialized value.(“¯¿ú
+Gphp:S836û0"2Review the data-flow - use of uninitialized value.(„åîÜ
+Lphp:S836Ø^"2Review the data-flow - use of uninitialized value.(Ôé‰ıøÿÿÿÿ
+\php:S107Ÿ"GThis function has 8 parameters, which is greater than the 7 authorized.(Ş©Ä
+Lphp:S836‰j"2Review the data-flow - use of uninitialized value.(æ¸Ô¶ıÿÿÿÿ
+Lphp:S836Œ3"2Review the data-flow - use of uninitialized value.(Ù×’Êûÿÿÿÿ
+Lphp:S836·A"2Review the data-flow - use of uninitialized value.(­úÖøÿÿÿÿ
+Gphp:S836şK"2Review the data-flow - use of uninitialized value.(ôù¿½
+Lphp:S836å^"2Review the data-flow - use of uninitialized value.(Òôºáùÿÿÿÿ
+Gphp:S836"2Review the data-flow - use of uninitialized value.(ûƒÔĞ
+Mphp:S836Ê„"2Review the data-flow - use of uninitialized value.(’Ú¸ÿÿÿÿÿ
+Gphp:S836Æ9"2Review the data-flow - use of uninitialized value.(â¢Ğ
+Gphp:S836¸>"2Review the data-flow - use of uninitialized value.(È­âë
+Gphp:S836•`"2Review the data-flow - use of uninitialized value.(ñ”±Œ
+Lphp:S836¦V"2Review the data-flow - use of uninitialized value.(¢î‹ıÿÿÿÿ
+Lphp:S836h"2Review the data-flow - use of uninitialized value.(•Å®Şúÿÿÿÿ
+Gphp:S836š"2Review the data-flow - use of uninitialized value.(¨ ¼´
+Gphp:S836ø"2Review the data-flow - use of uninitialized value.(ûÒŒÎ
+Lphp:S836÷L"2Review the data-flow - use of uninitialized value.(øçššùÿÿÿÿ
+Lphp:S836è&"2Review the data-flow - use of uninitialized value.(õ¥û•ıÿÿÿÿ
+Gphp:S836£W"2Review the data-flow - use of uninitialized value.(µêÚÁ
+Lphp:S836Ø"2Review the data-flow - use of uninitialized value.(Ø´ÊÓúÿÿÿÿ
+Lphp:S836Á"2Review the data-flow - use of uninitialized value.(Ÿ¤ö÷øÿÿÿÿ
+Gphp:S836² "2Review the data-flow - use of uninitialized value.(×ØìÄ
+Gphp:S836ÊZ"2Review the data-flow - use of uninitialized value.(»¿ÇÎ
+Gphp:S836Äb"2Review the data-flow - use of uninitialized value.(øÖ‹İ
+Gphp:S836¼F"2Review the data-flow - use of uninitialized value.(ÙºØ
+Gphp:S836Â"2Review the data-flow - use of uninitialized value.(àÉØ²
+Lphp:S836Å7"2Review the data-flow - use of uninitialized value.(ğÍèıûÿÿÿÿ
+w	php:S1448ê"aClass "Cache" has 45 methods, which is greater than 20 authorized. Split it into smaller classes.(Œì¨•
+Gphp:S836Ú"2Review the data-flow - use of uninitialized value.(×Ù
+Lphp:S836ûC"2Review the data-flow - use of uninitialized value.(¹™‘Ÿüÿÿÿÿ
+Lphp:S836°"2Review the data-flow - use of uninitialized value.(¤Àùÿÿÿÿ
+Lphp:S836ã"2Review the data-flow - use of uninitialized value.(¡Å¼ìúÿÿÿÿ
+Gphp:S836Â\"2Review the data-flow - use of uninitialized value.(ú‰âí
+Gphp:S836"2Review the data-flow - use of uninitialized value.(æÒğ¾
+Lphp:S836ø""2Review the data-flow - use of uninitialized value.(¤Æ´Êşÿÿÿÿ
+Lphp:S836ñ*"2Review the data-flow - use of uninitialized value.(€œ©óüÿÿÿÿ
+Gphp:S836¨3"2Review the data-flow - use of uninitialized value.(é…ŸÁ
+Lphp:S836çG"2Review the data-flow - use of uninitialized value.(ßî«Ëÿÿÿÿÿ
+Gphp:S836¿$"2Review the data-flow - use of uninitialized value.(í®Ø
+Lphp:S836»x"2Review the data-flow - use of uninitialized value.(‡²ôĞøÿÿÿÿ
+Lphp:S836µy"2Review the data-flow - use of uninitialized value.(°şßòÿÿÿÿÿ
+Gphp:S836­"2Review the data-flow - use of uninitialized value.(ë¢ÅÄ
+Gphp:S836ïf"2Review the data-flow - use of uninitialized value.(ŞìÂÊ
+Lphp:S836ŞT"2Review the data-flow - use of uninitialized value.(ÛŒÿ£øÿÿÿÿ
+Lphp:S836š""2Review the data-flow - use of uninitialized value.(–äûÌûÿÿÿÿ
+Gphp:S836–"2Review the data-flow - use of uninitialized value.(ÄŸŸü
+Gphp:S836°"2Review the data-flow - use of uninitialized value.(œäÜœ
+Lphp:S836Ùh"2Review the data-flow - use of uninitialized value.(ãŸ×ıÿÿÿÿ
+Gphp:S836”u"2Review the data-flow - use of uninitialized value.(Åãó½
+Lphp:S836©9"2Review the data-flow - use of uninitialized value.(óÔ»ùÿÿÿÿ
+Lphp:S836Ï="2Review the data-flow - use of uninitialized value.(ı‘Èñÿÿÿÿÿ
+Gphp:S836ó"2Review the data-flow - use of uninitialized value.(ô¬Şõ
+Lphp:S836âr"2Review the data-flow - use of uninitialized value.(¹ƒû¤øÿÿÿÿ
+Fphp:S836®e"2Review the data-flow - use of uninitialized value.(ª½–B
+Gphp:S836×K"2Review the data-flow - use of uninitialized value.(Àß•¶
+Gphp:S836ÅT"2Review the data-flow - use of uninitialized value.(…Ìœï
+Lphp:S836é"2Review the data-flow - use of uninitialized value.(Öò–¥üÿÿÿÿ
+Fphp:S836­-"2Review the data-flow - use of uninitialized value.(àğ“f
+Lphp:S836Êk"2Review the data-flow - use of uninitialized value.(ŠÛÈšûÿÿÿÿ
+Gphp:S836¸9"2Review the data-flow - use of uninitialized value.(íå¦ƒ
+Lphp:S836´s"2Review the data-flow - use of uninitialized value.(œ ÕÊúÿÿÿÿ
+Gphp:S836ƒ"2Review the data-flow - use of uninitialized value.(’íğ˜
+Gphp:S836ø"2Review the data-flow - use of uninitialized value.(Ê²‚Ÿ
+Gphp:S836¡C"2Review the data-flow - use of uninitialized value.(“Â† 
+Gphp:S836ÇX"2Review the data-flow - use of uninitialized value.(îš´‡
+Lphp:S836â_"2Review the data-flow - use of uninitialized value.(‡àÑüÿÿÿÿ
+Mphp:S836—"2Review the data-flow - use of uninitialized value.(¶¼„×úÿÿÿÿ
+~	php:S1448€\"cClass "Session" has 47 methods, which is greater than 20 authorized. Split it into smaller classes.(²òœÉÿÿÿÿÿ
+Hphp:S836…‚"2Review the data-flow - use of uninitialized value.(ŠæñÆ
+Lphp:S836ó{"2Review the data-flow - use of uninitialized value.(¿ŸÎöüÿÿÿÿ
+Lphp:S836¬"2Review the data-flow - use of uninitialized value.(ÙÅ÷Šıÿÿÿÿ
+Lphp:S836çn"2Review the data-flow - use of uninitialized value.(¨¸Ì¹ÿÿÿÿÿ
+Gphp:S836¼"2Review the data-flow - use of uninitialized value.(®¹‡Î
+Lphp:S836A"2Review the data-flow - use of uninitialized value.(ƒíûÿÿÿÿ
+Gphp:S836¼*"2Review the data-flow - use of uninitialized value.(„™ğ«
+Lphp:S836¯K"2Review the data-flow - use of uninitialized value.(¸ğóŠıÿÿÿÿ
+Lphp:S836’["2Review the data-flow - use of uninitialized value.(î„¢Ìÿÿÿÿÿ
+Lphp:S836›d"2Review the data-flow - use of uninitialized value.(åæ¯ùÿÿÿÿ
+Gphp:S836É%"2Review the data-flow - use of uninitialized value.(Ï—»¨
+Lphp:S836è,"2Review the data-flow - use of uninitialized value.(ÙÈ¸Ëúÿÿÿÿ
+Gphp:S836ûB"2Review the data-flow - use of uninitialized value.(‡Ñ¸ë
+Gphp:S836b"2Review the data-flow - use of uninitialized value.(ô¢ë§
+Lphp:S836Âs"2Review the data-flow - use of uninitialized value.(ĞÇÅÑøÿÿÿÿ
+Mphp:S836ø‚"2Review the data-flow - use of uninitialized value.(¡Ÿãÿÿÿÿÿ
+Lphp:S836ñ8"2Review the data-flow - use of uninitialized value.(æ÷£‚úÿÿÿÿ
+Lphp:S836!"2Review the data-flow - use of uninitialized value.(É™šôÿÿÿÿÿ
+Gphp:S836Æ8"2Review the data-flow - use of uninitialized value.(’íğ˜
+Gphp:S836å-"2Review the data-flow - use of uninitialized value.(¨ö«º
+Gphp:S836í."2Review the data-flow - use of uninitialized value.(ş¯ş
+Hphp:S836à€"2Review the data-flow - use of uninitialized value.(ñ¸ú¢
+Lphp:S836ş!"2Review the data-flow - use of uninitialized value.(Üãü•ûÿÿÿÿ
+Hphp:S836…"2Review the data-flow - use of uninitialized value.(®Åı‰
+Lphp:S836ßs"2Review the data-flow - use of uninitialized value.(Ä‰†şúÿÿÿÿ
+Gphp:S836Ò"2Review the data-flow - use of uninitialized value.(íÇö
+Gphp:S836²$"2Review the data-flow - use of uninitialized value.(ìè›¾
+Lphp:S836‚)"2Review the data-flow - use of uninitialized value.(÷çŠ²ÿÿÿÿÿ
+Gphp:S836œ"2Review the data-flow - use of uninitialized value.(ÄŸŸü
+Gphp:S836¢*"2Review the data-flow - use of uninitialized value.(½­¦
+Lphp:S836Ñ"2Review the data-flow - use of uninitialized value.(°¾ÚŒûÿÿÿÿ
+Lphp:S836ø:"2Review the data-flow - use of uninitialized value.(Ğ»¾…úÿÿÿÿ
+Hphp:S836ç"2Review the data-flow - use of uninitialized value.(Øã©ß
+Gphp:S836d"2Review the data-flow - use of uninitialized value.(½­¦
+Lphp:S836ó5"2Review the data-flow - use of uninitialized value.(şºÓÿÿÿÿÿ
+Gphp:S836ì"2Review the data-flow - use of uninitialized value.(ıÊ
+Lphp:S836i"2Review the data-flow - use of uninitialized value.(Èà¿ùÿÿÿÿ
+Lphp:S836¶"2Review the data-flow - use of uninitialized value.(Ä‰ëÃùÿÿÿÿ
+Lphp:S836Û,"2Review the data-flow - use of uninitialized value.(ëÙä’ıÿÿÿÿ
+Gphp:S836á0"2Review the data-flow - use of uninitialized value.(ÍÀ¤»
+Gphp:S836Í?"2Review the data-flow - use of uninitialized value.(Â¡®È
+Gphp:S836Ô"2Review the data-flow - use of uninitialized value.(ÉüÇ”
+Gphp:S836È"2Review the data-flow - use of uninitialized value.(¶‚áÊ
+~	php:S1448é`"cClass "Storage" has 47 methods, which is greater than 20 authorized. Split it into smaller classes.(ˆñÈŠÿÿÿÿÿ
+Lphp:S836…#"2Review the data-flow - use of uninitialized value.(§·¶ôúÿÿÿÿ
+Lphp:S836ö"2Review the data-flow - use of uninitialized value.(ò¶¸úÿÿÿÿ
+Gphp:S836îC"2Review the data-flow - use of uninitialized value.(¿ ·°
+Gphp:S836¡D"2Review the data-flow - use of uninitialized value.(ĞåÖ¢
+Gphp:S836ÉW"2Review the data-flow - use of uninitialized value.(›Éøæ
+Lphp:S836‡X"2Review the data-flow - use of uninitialized value.(ƒíûÿÿÿÿ
+Gphp:S836óc"2Review the data-flow - use of uninitialized value.(§İÿÄ
+Lphp:S836òJ"2Review the data-flow - use of uninitialized value.(Àğ›Õıÿÿÿÿ
+Gphp:S836­~"2Review the data-flow - use of uninitialized value.(âÁÔÀ
+Lphp:S836ìy"2Review the data-flow - use of uninitialized value.(ü¤á˜şÿÿÿÿ
+Lphp:S836ï4"2Review the data-flow - use of uninitialized value.(­Êñ‹ùÿÿÿÿ
+Gphp:S836¿j"2Review the data-flow - use of uninitialized value.(ÆÁÀÙ
+Lphp:S836õ"2Review the data-flow - use of uninitialized value.(Î¨¨Ğøÿÿÿÿ
+Lphp:S836î"2Review the data-flow - use of uninitialized value.(¸º´ºüÿÿÿÿ
+Gphp:S836–"2Review the data-flow - use of uninitialized value.(ÓÉãî
+Lphp:S836Õx"2Review the data-flow - use of uninitialized value.(…º›Îùÿÿÿÿ
+Lphp:S836ã"2Review the data-flow - use of uninitialized value.(ÇÍ¼ûÿÿÿÿ
+Fphp:S836Ö~"2Review the data-flow - use of uninitialized value.(ÌëÁ8
+Fphp:S836ôn"2Review the data-flow - use of uninitialized value.(·Ş·
+Lphp:S836…p"2Review the data-flow - use of uninitialized value.(ÇÈï¯ûÿÿÿÿ
+Lphp:S836®"2Review the data-flow - use of uninitialized value.(Í“Óÿÿÿÿÿ
+Gphp:S836â'"2Review the data-flow - use of uninitialized value.(šğˆŒ
+Gphp:S836ÿ\"2Review the data-flow - use of uninitialized value.(À†Ã‘
+Gphp:S836ûs"2Review the data-flow - use of uninitialized value.(‚•…ß
+Lphp:S836¿"2Review the data-flow - use of uninitialized value.(ŞÑ¥Óûÿÿÿÿ
+Lphp:S836Ÿ"2Review the data-flow - use of uninitialized value.(®¼Í„ÿÿÿÿÿ
+Gphp:S836ó>"2Review the data-flow - use of uninitialized value.(¾†ŠÃ
+Gphp:S836²t"2Review the data-flow - use of uninitialized value.(øÈ¿¡
+Gphp:S836‘N"2Review the data-flow - use of uninitialized value.(š«Ìñ
+Gphp:S836"2Review the data-flow - use of uninitialized value.(ÌÍ˜Ä
+y	php:S1448œ"^Class "DB" has 72 methods, which is greater than 20 authorized. Split it into smaller classes.(¡ï‰¿øÿÿÿÿ
+Gphp:S836ç/"2Review the data-flow - use of uninitialized value.(ÍĞ¹ø
+Lphp:S836¤\"2Review the data-flow - use of uninitialized value.(ª“ùíøÿÿÿÿ
+Gphp:S836„"2Review the data-flow - use of uninitialized value.(¯ˆÒÿ
+Gphp:S836Ë"2Review the data-flow - use of uninitialized value.(İ¨±Ó
+Lphp:S836åF"2Review the data-flow - use of uninitialized value.(şØ¿–üÿÿÿÿ
+Gphp:S836˜j"2Review the data-flow - use of uninitialized value.(¹–€
+Gphp:S836›"2Review the data-flow - use of uninitialized value.(ÖõËÓ
+Gphp:S836ø"2Review the data-flow - use of uninitialized value.(ıÊ
+Lphp:S836°"2Review the data-flow - use of uninitialized value.(ª“ùíøÿÿÿÿ
+Gphp:S836Â "2Review the data-flow - use of uninitialized value.(’„
+Lphp:S836µ3"2Review the data-flow - use of uninitialized value.(ÀÛ¯øÿÿÿÿ
+Lphp:S836œ7"2Review the data-flow - use of uninitialized value.(ĞÌ¨Üÿÿÿÿÿ
+Lphp:S836ÅL"2Review the data-flow - use of uninitialized value.(âÙÓÍşÿÿÿÿ
+Gphp:S836€i"2Review the data-flow - use of uninitialized value.(õø°Ü
+Gphp:S836æH"2Review the data-flow - use of uninitialized value.(ÿÊÇ
+Gphp:S836‹B"2Review the data-flow - use of uninitialized value.(èìµˆ
+w	php:S1448«:"aClass "Queue" has 36 methods, which is greater than 20 authorized. Split it into smaller classes.(›Â„«
+Lphp:S836ñu"2Review the data-flow - use of uninitialized value.(›ÙÄêùÿÿÿÿ
+Gphp:S836ÑL"2Review the data-flow - use of uninitialized value.(½ÁıÓ
+Lphp:S836 :"2Review the data-flow - use of uninitialized value.(ª“ùíøÿÿÿÿ
+Gphp:S836ˆ"2Review the data-flow - use of uninitialized value.(ÚŸÆû
+Lphp:S836Ï"2Review the data-flow - use of uninitialized value.(Áñïéüÿÿÿÿ
+Lphp:S836Ú?"2Review the data-flow - use of uninitialized value.( …ì£øÿÿÿÿ
+Lphp:S836íe"2Review the data-flow - use of uninitialized value.(Ì¨Æºüÿÿÿÿ
+Lphp:S836è"2Review the data-flow - use of uninitialized value.(İíªşûÿÿÿÿ
+Lphp:S836Ô"2Review the data-flow - use of uninitialized value.(ÊÎ³úÿÿÿÿ
+Gphp:S836­g"2Review the data-flow - use of uninitialized value.(×É®ÿ
+Lphp:S836ª{"2Review the data-flow - use of uninitialized value.(Ï¢Ñ³úÿÿÿÿ
+Gphp:S836ÿ*"2Review the data-flow - use of uninitialized value.(ˆ‘’á
+Lphp:S836Ø-"2Review the data-flow - use of uninitialized value.(ÚïËùÿÿÿÿ
+Lphp:S836üQ"2Review the data-flow - use of uninitialized value.(à’²ˆÿÿÿÿÿ
+Lphp:S836¦s"2Review the data-flow - use of uninitialized value.(¶úú¾ıÿÿÿÿ
+Gphp:S836»"2Review the data-flow - use of uninitialized value.(À†Ã‘
+Lphp:S836©o"2Review the data-flow - use of uninitialized value.(ãÑÁÂıÿÿÿÿ
+Gphp:S836ˆ"2Review the data-flow - use of uninitialized value.(ˆÀÏ¥
+Fphp:S836Ğ]"2Review the data-flow - use of uninitialized value.(ï¼“s
+Lphp:S836Ïa"2Review the data-flow - use of uninitialized value.(½¦àşÿÿÿÿ
+Lphp:S836’|"2Review the data-flow - use of uninitialized value.(Ûõİ´ıÿÿÿÿ
+Fphp:S836o"2Review the data-flow - use of uninitialized value.(ß‚»
+Lphp:S836‡"2Review the data-flow - use of uninitialized value.(İ¶×µüÿÿÿÿ
+Lphp:S836Á""2Review the data-flow - use of uninitialized value.(’ÎõÔüÿÿÿÿ
+Gphp:S836¼H"2Review the data-flow - use of uninitialized value.(¼¿óº
+Gphp:S836­z"2Review the data-flow - use of uninitialized value.(Ş«é†
+Lphp:S836ğ2"2Review the data-flow - use of uninitialized value.(¦ºÌşÿÿÿÿ
+Gphp:S836Ê"2Review the data-flow - use of uninitialized value.(°µ½œ
+Gphp:S836ç"2Review the data-flow - use of uninitialized value.(‹×íã
+Gphp:S836È5"2Review the data-flow - use of uninitialized value.(ë´™Ù
+Lphp:S836ÒT"2Review the data-flow - use of uninitialized value.(†­©ıÿÿÿÿ
+Gphp:S836éa"2Review the data-flow - use of uninitialized value.(ÄŸŸü
+Lphp:S836‘"2Review the data-flow - use of uninitialized value.(Ò¤§ÿÿÿÿÿ
+Lphp:S836ë:"2Review the data-flow - use of uninitialized value.(˜å‡Ëıÿÿÿÿ
+Lphp:S836¾Q"2Review the data-flow - use of uninitialized value.(¾øî¦øÿÿÿÿ
+Gphp:S836 "2Review the data-flow - use of uninitialized value.(íŠâ†
+Fphp:S836Ì["2Review the data-flow - use of uninitialized value.(£»¸
+Lphp:S836Õd"2Review the data-flow - use of uninitialized value.(¸×“ûûÿÿÿÿ
+Lphp:S836ÃA"2Review the data-flow - use of uninitialized value.(¯Øëøÿÿÿÿ
+Gphp:S836ì‚"2Review the data-flow - use of uninitialized value.(Ëü6
+Mphp:S836ûƒ"2Review the data-flow - use of uninitialized value.(ÿĞ¤Öúÿÿÿÿ
+Gphp:S836Á/"2Review the data-flow - use of uninitialized value.(“•·û
+Lphp:S836´"2Review the data-flow - use of uninitialized value.(ª“ùíøÿÿÿÿ
+Lphp:S836£}"2Review the data-flow - use of uninitialized value.(¿íÜÔøÿÿÿÿ
+Lphp:S836˜$"2Review the data-flow - use of uninitialized value.(³î¡ïøÿÿÿÿ
+Fphp:S836š"2Review the data-flow - use of uninitialized value.(µÉk
+Mphp:S836îƒ"2Review the data-flow - use of uninitialized value.(Æ·¥ıÿÿÿÿ
+Fphp:S836´""2Review the data-flow - use of uninitialized value.(Ï¨íE
+Lphp:S836é	"2Review the data-flow - use of uninitialized value.(­‚¾ÿÿÿÿÿ
+Lphp:S836»%"2Review the data-flow - use of uninitialized value.(Èåï”øÿÿÿÿ
+Lphp:S836ĞF"2Review the data-flow - use of uninitialized value.(ŞŸ›Åúÿÿÿÿ
+Lphp:S836"2Review the data-flow - use of uninitialized value.(áŞÏùşÿÿÿÿ
+Fphp:S836Ç)"2Review the data-flow - use of uninitialized value.(ÀßÕb
+Lphp:S836µ0"2Review the data-flow - use of uninitialized value.(ŒâŞ—ûÿÿÿÿ
+Gphp:S836€c"2Review the data-flow - use of uninitialized value.(º²˜ü
+Gphp:S836–/"2Review the data-flow - use of uninitialized value.(ÄŸŸü
+Gphp:S836Øc"2Review the data-flow - use of uninitialized value.(¬—®¿
+Lphp:S836ŒR"2Review the data-flow - use of uninitialized value.(¨®ğ°úÿÿÿÿ
+Gphp:S836’;"2Review the data-flow - use of uninitialized value.(¼”Ÿˆ
+Gphp:S836¥0"2Review the data-flow - use of uninitialized value.(Şª…µ
+Ephp:S836V"2Review the data-flow - use of uninitialized value.(Á®€
+Gphp:S836®|"2Review the data-flow - use of uninitialized value.(È“Â—
+Gphp:S836º;"2Review the data-flow - use of uninitialized value.(ÄŸŸü
+Lphp:S836´h"2Review the data-flow - use of uninitialized value.(›¸ü¢ÿÿÿÿÿ
+Lphp:S836¼v"2Review the data-flow - use of uninitialized value.(âõÒ¥øÿÿÿÿ
+Gphp:S836È+"2Review the data-flow - use of uninitialized value.(û…ŸË
+Lphp:S836á4"2Review the data-flow - use of uninitialized value.(Ö×”ÿÿÿÿÿ
+Lphp:S836ú1"2Review the data-flow - use of uninitialized value.(­‚¿‹úÿÿÿÿ
+Lphp:S836¾"2Review the data-flow - use of uninitialized value.(ÖœëÃüÿÿÿÿ
+Lphp:S836”X"2Review the data-flow - use of uninitialized value.(ÚçñÚúÿÿÿÿ
+Lphp:S836ª"2Review the data-flow - use of uninitialized value.(·´Ôåùÿÿÿÿ
+Gphp:S836ßX"2Review the data-flow - use of uninitialized value.(áö
+Gphp:S836ĞP"2Review the data-flow - use of uninitialized value.(›”ı
+Gphp:S836‰l"2Review the data-flow - use of uninitialized value.(Ãà¯Œ
+Lphp:S836o"2Review the data-flow - use of uninitialized value.(æüù½øÿÿÿÿ
+Lphp:S836Ëj"2Review the data-flow - use of uninitialized value.(¡’Ê•ûÿÿÿÿ
+Gphp:S836¼|"2Review the data-flow - use of uninitialized value.(Ñµçª
+Lphp:S836·8"2Review the data-flow - use of uninitialized value.(ÁÍ‘Ëüÿÿÿÿ
+Lphp:S836á"2Review the data-flow - use of uninitialized value.(¡Å¼ìúÿÿÿÿ
+Lphp:S836‘'"2Review the data-flow - use of uninitialized value.(©ìªğıÿÿÿÿ
+Gphp:S836•^"2Review the data-flow - use of uninitialized value.(§Ø¿
+Lphp:S836ğ"2Review the data-flow - use of uninitialized value.(ÿ¼ı÷ûÿÿÿÿ
+Lphp:S836Áh"2Review the data-flow - use of uninitialized value.(úÂ«›øÿÿÿÿ
+Gphp:S836´/"2Review the data-flow - use of uninitialized value.(ú‰âí
+Gphp:S836ª+"2Review the data-flow - use of uninitialized value.(¡‡‘¼
+Lphp:S836Ô"2Review the data-flow - use of uninitialized value.(ì½Õéûÿÿÿÿ
+Lphp:S836ø"2Review the data-flow - use of uninitialized value.(Ù¢©ñûÿÿÿÿ
+Gphp:S836g"2Review the data-flow - use of uninitialized value.(™ú“
+Mphp:S836²…"2Review the data-flow - use of uninitialized value.(öÅÅ•üÿÿÿÿ
+Lphp:S836µa"2Review the data-flow - use of uninitialized value.(òã³æşÿÿÿÿ
+Mphp:S836ö"2Review the data-flow - use of uninitialized value.(ùÄ²èüÿÿÿÿ
+Gphp:S836¦"2Review the data-flow - use of uninitialized value.(­ÌŒ
+Gphp:S836’"2Review the data-flow - use of uninitialized value.(µ¢ºñ
+Gphp:S836ß."2Review the data-flow - use of uninitialized value.(ñ‡ıö
+Gphp:S836ôg"2Review the data-flow - use of uninitialized value.(Ñö‚ƒ
+Gphp:S836ìX"2Review the data-flow - use of uninitialized value.(³øî
+Gphp:S836¨M"2Review the data-flow - use of uninitialized value.(£¸Óò
+Lphp:S836˜n"2Review the data-flow - use of uninitialized value.(¨Æıøùÿÿÿÿ
+Lphp:S836Ÿ~"2Review the data-flow - use of uninitialized value.(Âû·¥üÿÿÿÿ
+Lphp:S836¨T"2Review the data-flow - use of uninitialized value.(åôªâıÿÿÿÿ
+Gphp:S836à"2Review the data-flow - use of uninitialized value.(¡Õüá
+Gphp:S836¸1"2Review the data-flow - use of uninitialized value.(˜Òíï
+Gphp:S836İ"2Review the data-flow - use of uninitialized value.(í­™ã
+Gphp:S836Á"2Review the data-flow - use of uninitialized value.(ãø¯
+Gphp:S836ö&"2Review the data-flow - use of uninitialized value.(çÒ«ƒ
+Lphp:S836®G"2Review the data-flow - use of uninitialized value.(ÁÇ¥şÿÿÿÿ
+Lphp:S836ñr"2Review the data-flow - use of uninitialized value.(È˜Âéøÿÿÿÿ
+Hphp:S836å„"2Review the data-flow - use of uninitialized value.(‡•œñ
+Gphp:S836 #"2Review the data-flow - use of uninitialized value.(ó‡·
+Lphp:S836ÛA"2Review the data-flow - use of uninitialized value.(Áëì¥ùÿÿÿÿ
+Hphp:S836àƒ"2Review the data-flow - use of uninitialized value.(šš·Ô
+Lphp:S836Ú"2Review the data-flow - use of uninitialized value.(ß¦Ó¡ùÿÿÿÿ
+Lphp:S836§h"2Review the data-flow - use of uninitialized value.(‰áŞÊşÿÿÿÿ
+Gphp:S836š3"2Review the data-flow - use of uninitialized value.(‚ğÕ§
+Lphp:S836•0"2Review the data-flow - use of uninitialized value.(˜İ£ÿüÿÿÿÿ
+Lphp:S836‡:"2Review the data-flow - use of uninitialized value.(¯ûôÌüÿÿÿÿ
+Gphp:S836Ä"2Review the data-flow - use of uninitialized value.(«õöñ
+Gphp:S836óA"2Review the data-flow - use of uninitialized value.(ÌÉÊñ
+Lphp:S836—W"2Review the data-flow - use of uninitialized value.(íÃ·‚ûÿÿÿÿ
+Gphp:S836‘8"2Review the data-flow - use of uninitialized value.(ÄŸŸü
+Gphp:S836şl"2Review the data-flow - use of uninitialized value.(şÏİü
+Gphp:S836‡J"2Review the data-flow - use of uninitialized value.(¿±Æ
+Lphp:S836ê@"2Review the data-flow - use of uninitialized value.(ÕÑ¬ƒÿÿÿÿÿ
+Gphp:S836²"2Review the data-flow - use of uninitialized value.(¬Ùï
+Gphp:S836ª"2Review the data-flow - use of uninitialized value.(îÈ¡ø
+Gphp:S836úi"2Review the data-flow - use of uninitialized value.(üš†
+Lphp:S836¥."2Review the data-flow - use of uninitialized value.(‰ÓÕüûÿÿÿÿ
+Gphp:S836"2Review the data-flow - use of uninitialized value.(÷ó‡Ô
+Fphp:S836ü."2Review the data-flow - use of uninitialized value.(˜¬"
+Fphp:S836à;"2Review the data-flow - use of uninitialized value.(ƒˆÒ
+Lphp:S836ç5"2Review the data-flow - use of uninitialized value.(ğéı½ûÿÿÿÿ
+Lphp:S836õ["2Review the data-flow - use of uninitialized value.( ¾Ãûúÿÿÿÿ
+Lphp:S836"2Review the data-flow - use of uninitialized value.(¦Ø‘ÿÿÿÿÿ
+Gphp:S836¶d"2Review the data-flow - use of uninitialized value.(Éƒ­„
+Lphp:S836»["2Review the data-flow - use of uninitialized value.(¦²Şöşÿÿÿÿ
+Gphp:S836Õ"2Review the data-flow - use of uninitialized value.(éˆ‰Â
+Gphp:S836“e"2Review the data-flow - use of uninitialized value.(ˆ”éŠ
+Gphp:S836»Z"2Review the data-flow - use of uninitialized value.(›–ÌÆ
+Lphp:S836"2Review the data-flow - use of uninitialized value.(ı÷öˆûÿÿÿÿ
+Lphp:S836®"2Review the data-flow - use of uninitialized value.(¡Å¼ìúÿÿÿÿ
+Lphp:S836¦
+"2Review the data-flow - use of uninitialized value.(ü°„üÿÿÿÿ
+hphp:S101»†"KRename class "graphql" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(†Å‘8† ç·-
+Sphp:S836¸r"2Review the data-flow - use of uninitialized value.(ç µ¹øÿÿÿÿ8† ç·-
+Sphp:S836åt"2Review the data-flow - use of uninitialized value.(ÊıÌ„üÿÿÿÿ8† ç·-
+Nphp:S836äu"2Review the data-flow - use of uninitialized value.(ïÊ³è8† ç·-
+Nphp:S836Šv"2Review the data-flow - use of uninitialized value.(Ş¢İ”8† ç·-
+Nphp:S836¯v"2Review the data-flow - use of uninitialized value.(İÒÚÚ8† ç·-
+Nphp:S836Èv"2Review the data-flow - use of uninitialized value.(Üè‚¶8† ç·-
+Nphp:S836¨y"2Review the data-flow - use of uninitialized value.(ˆÆ£ë8† ç·-
+Sphp:S836¹~"2Review the data-flow - use of uninitialized value.(¥™µ®ıÿÿÿÿ8† ç·-
+Ophp:S836Ñ‚"2Review the data-flow - use of uninitialized value.(Ÿ¼’8† ç·-
+Ophp:S836„ƒ"2Review the data-flow - use of uninitialized value.(»™ò¼8† ç·-
+Tphp:S836±„"2Review the data-flow - use of uninitialized value.(Ú¾’Öşÿÿÿÿ8† ç·-
+Tphp:S836Ö„"2Review the data-flow - use of uninitialized value.(íÅñªûÿÿÿÿ8† ç·-
+Ophp:S836¥…"2Review the data-flow - use of uninitialized value.(Ùô÷8† ç·-
+Ophp:S836×…"2Review the data-flow - use of uninitialized value.(€ËöÆ8† ç·-

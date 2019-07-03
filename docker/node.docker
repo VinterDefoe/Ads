@@ -1,0 +1,11 @@
+FROM node:12.4-slim
+
+RUN npm install -g @angular/cli@latest
+RUN npm install -g laravel-echo-server
+
+EXPOSE 4200/tcp
+
+## Set User, This value should be equal local User $UID, its for permissions on create files
+RUN echo fs.inotify.max_user_watches=524288 | tee -a /etc/sysctl.conf
+RUN adduser node root
+USER 1000:1000

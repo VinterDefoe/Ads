@@ -1,0 +1,63 @@
+version: '3'
+services:
+  nginx:
+    build:
+      context: ./
+      dockerfile: docker/nginx.docker
+    volumes:
+      - ./backend:/var/www
+      - ./docker/nginx/ssl:/etc/nginx/ssl
+    ports:
+      - "80:80"
+    depends_on:
+      - php-fpm
+  php-fpm:
+    build:
+      context: ./
+      dockerfile: docker/php-fpm.docker
+    volumes:
+      - ./backend:/var/www
+    ports:
+      - 9001:9001 # Access GUI with http://localhost:9001/ Supervisor
+  mysql:
+    image: mysql:5.7
+    command: --character-set-server=utf8mb4 --collation-server=utf8mb4_unicode_ci
+    volumes:
+      - ./mysql:/var/lib/mysql
+    environment:
+      MYSQL_ROOT_PASSWORD: secret
+      MYSQL_DATABASE: ads_db
+      MYSQL_USER: devuser
+      MYSQL_PASSWORD: devpass
+    ports:
+      - "3306:3306"
+  adminer:
+    image: adminer
+    ports:
+      - 8080:8080
+  redis:
+    image: redis:3.0
+    ports:
+      - "6379:6379"
+  dashboard:
+    build:
+      context: ./
+      dockerfile: docker/node.docker
+    volumes:
+      - ./dashboard:/var/www
+    ports:
+      - "4200:4200"
+    working_dir: /var/www
+    tty: true
+    depends_on:
+      - nginx
+  echo-server:
+    build:
+      context: ./
+      dockerfile: docker/node.docker
+    volumes:
+      - ./backend:/var/www
+    ports:
+      - "6001:6001"
+    working_dir: /var/www
+    tty: true

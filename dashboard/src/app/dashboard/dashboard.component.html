@@ -1,0 +1,37 @@
+<mat-drawer-container class="main-container" autosize>
+  <mat-drawer #drawer class="main-sidenav" mode="side" opened>
+
+    <div class="container b-menu-box">
+
+      <div class="row">
+        <div class="col-12 b-menu-title">
+          <h2><a [routerLink]="['/']" class="t-white">Menu</a></h2>
+        </div>
+      </div>
+
+      <div class="row">
+        <div class="col-12 b-menu-items">
+          <ul>
+            <li><a [routerLink]="['/users']">Users</a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+
+  </mat-drawer>
+
+  <div class="main-sidenav-content">
+
+    <div class="container b-main-content">
+      <div class="row">
+        <div class="col-12">
+          <button type="button" color="warn" mat-mini-fab (click)="drawer.toggle()">
+          </button>
+          <router-outlet></router-outlet>
+        </div>
+      </div>
+    </div>
+
+  </div>
+
+</mat-drawer-container>

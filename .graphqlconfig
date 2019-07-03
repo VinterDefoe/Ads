@@ -1,0 +1,15 @@
+{
+  "name": "ADS GraphQL Schema",
+  "schemaPath": "backend/graphql/schema.graphql",
+  "extensions": {
+    "endpoints": {
+      "Default GraphQL Endpoint": {
+        "url": "http://localhost/graphql",
+        "headers": {
+          "user-agent": "JS GraphQL"
+        },
+        "introspect": true
+      }
+    }
+  }
+}

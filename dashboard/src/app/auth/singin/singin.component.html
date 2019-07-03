@@ -1,0 +1,42 @@
+<div class="login-bg"></div>
+
+<div class="container">
+    <div class="row justify-content-center align-items-center b-login">
+        <div class="b-login-form">
+            <div class="col-12 b-login-title">
+                <h2>Sing In</h2>
+            </div>
+            <div class="col-12">
+
+                <form [formGroup]="signupForm" (ngSubmit)="onSubmit()">
+                    <div class="singin-container">
+                        <mat-error *ngIf="email.invalid">{{getErrorMessage()}}</mat-error>
+                        <mat-form-field>
+                            <input matInput placeholder="Enter your email" [formControl]="email" required>
+                            <mat-error *ngIf="email.invalid">{{getEmailErrorMessage()}}</mat-error>
+                        </mat-form-field>
+
+                        <mat-form-field>
+                            <input matInput placeholder="Enter your password" required
+                                   [formControl]="password"
+                                   [type]="hide ? 'password' : 'text'">
+                            <mat-error *ngIf="password.invalid">{{getPasswordErrorMessage()}}</mat-error>
+                            <button mat-icon-button matSuffix (click)="hide = !hide"
+                                    [attr.aria-label]="'Hide password'" [attr.aria-pressed]="hide">
+                                <mat-icon>{{hide ? 'visibility_off' : 'visibility'}}</mat-icon>
+                            </button>
+                        </mat-form-field>
+                    </div>
+                    <div class="b-login-submit d-flex justify-content-center">
+                        <button type="submit" mat-raised-button color="accent">SingIn</button>
+                    </div>
+
+                </form>
+
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
